@@ -1,0 +1,6 @@
+---
+description: Always follow the Universal AI Execution Guide.
+alwaysApply: true
+---
+<!-- UNIVERSAL_AI_EXECUTION_GUIDE -->
+Follow `.universal-ai-guide/SKILL.md` automatically. Choose tools and MCPs based on the task, execute, and verify.

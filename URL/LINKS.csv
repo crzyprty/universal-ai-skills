@@ -1,0 +1,300 @@
+name,url,purpose,group,kind
+9Router,https://github.com/decolua/9router,Route requests between different AI model providers,agents,tool
+ACME LLM Tools,https://github.com/fhs/acme-llm-tools,Bridge an Acme editor to an LLM,agents,tool
+Agency Agents,https://github.com/msitarzewski/agency-agents,Catalog of role-based specialist agent definitions,agents,tool
+AI Job Search,https://github.com/MadsLorentzen/ai-job-search,Automate selected job-search tasks,agents,tool
+Anthropic Skill Creator,https://github.com/anthropics/skills/tree/main/skills/skill-creator,Create and check reusable Agent Skills files,agents,tool
+Anthropic Skills,https://github.com/anthropics/skills,Official Agent Skills examples and specification patterns,agents,tool
+Auto-GPT,https://www.ultralytics.com/tr/glossary/auto-gpt,AutoGPT project documentation and releases,agents,tool
+Caveman,https://github.com/JuliusBrussee/caveman,Reduce unnecessary agent output and context load,agents,tool
+Caveman Website,https://caveman.so,Project site for the Caveman coding-agent token compression and workflow optimization tool,agents,documentation
+CC Switch,https://github.com/farion1231/cc-switch,Switch between coding-agent provider profiles,agents,tool
+cineglobe/GeminiDock,https://github.com/cineglobe/GeminiDock,Unverified experimental AI desktop application,agents,tool
+Claude Code Plugin List,https://www.isanurdogdu.com/kaynaklar/claude-code-eklenti-listesi,Overview of optional Claude Code plugins,agents,reference
+Claude Financial Services,https://github.com/anthropics/financial-services,Financial analysis agent templates and connectors,agents,reference
+Claudeman,https://github.com/scottrigby/claudeman,"Run Claude Code in Podman or Docker containers with profiles, hooks, domain controls, and reusable dependency caches",agents,tool
+Claw Code,https://github.com/ultraworkers/claw-code,Experimental agent showcase; not a production engine,agents,tool
+CLI Anything,https://github.com/HKUDS/CLI-Anything,Expose application functionality through CLI tools,agents,tool
+Cursor Plugins,https://github.com/cursor/plugins,Discover Cursor plugins,agents,tool
+ElricLiu/AutoGPT-Next-Web,https://github.com/ElricLiu/AutoGPT-Next-Web,Experimental web interface for AutoGPT,agents,tool
+Free Claude Code,https://github.com/Alishahryar1/free-claude-code,Experimental coding-agent access wrapper,agents,tool
+Free Code,https://github.com/freecodexyz/free-code,Experimental modified coding-agent tool,agents,tool
+Hermes Pixel Office,https://github.com/teknium1/hermes-pixel-office,Pixel-art virtual office visualization for Hermes Agent activity,agents,tool
+ImGoodBai/goodable,https://github.com/ImGoodBai/goodable,Desktop automation agent reference,agents,tool
+Kimi Code,https://www.kimi.com/code/en,"AI coding agent and CLI for codebase analysis, file editing, and command execution",agents,tool
+Matt Pocock Skills,https://github.com/mattpocock/skills,Reusable developer skill examples,agents,tool
+neuron-one/GODMODE,https://github.com/neuron-one/GODMODE,Experimental multi-agent orchestration project,agents,tool
+NoobyGains/godmode,https://github.com/noobygains/godmode,Agent workflow and task-planning examples,agents,tool
+NousResearch Hermes Agent,https://github.com/NousResearch/hermes-agent,Persistent assistant with memory and scheduled jobs,agents,tool
+OpenClaw,https://github.com/openclaw/openclaw,Self-hosted multi-channel assistant gateway,agents,tool
+OpenClaw v2026.10.5 release,https://github.com/openclaw/openclaw/releases/tag/v2026.10.5,"Historical OpenClaw release reference, not necessarily latest",agents,reference
+OpenCode,https://github.com/anomalyco/opencode,Open-source command-line coding agent,agents,tool
+Orca,https://github.com/stablyai/orca,Coordinate multiple coding agents on tasks,agents,tool
+Paperclip,https://github.com/paperclipai/paperclip,Track and manage software agents and workflows,agents,tool
+Pi,https://github.com/earendil-works/pi,Use terminal-based coding agents,agents,tool
+postgresml/Auto-GPT,https://github.com/postgresml/Auto-GPT,Experimental AutoGPT integration with database tools,agents,tool
+RTK CLI,https://github.com/rtk-ai/rtk,Compress common CLI output to reduce context and token use in coding-agent workflows,agents,tool
+Ruflo,https://github.com/ruvnet/ruflo,Study multi-agent workflow orchestration,agents,tool
+Significant-Gravitas/Auto-GPT-Plugins,https://github.com/Significant-Gravitas/Auto-GPT-Plugins,Historical AutoGPT plugin collection,agents,tool
+Significant-Gravitas/AutoGPT,https://github.com/significant-gravitas/autogpt,Study autonomous multi-step agent workflows,agents,tool
+Supabase Plugin,https://github.com/supabase-community/supabase-plugin,Supabase database workflows for coding agents,agents,tool
+Superpowers Marketplace,https://github.com/obra/superpowers-marketplace,"Install and discover coding-agent plugins and workflow skills, including Superpowers",agents,tool
+Token Optimization Guide,https://www.isanurdogdu.com/kaynaklar/limit-problemi-icin-2-arac,Tutorial on token optimization and model routing,agents,reference
+n8n Docs,https://docs.n8n.io/,Official documentation for building and operating workflow automation with n8n,automation,documentation
+Zapier MCP Docs,https://help.zapier.com/hc/en-us/articles/48308034391821-What-is-Zapier-MCP,Official guide to using Zapier MCP to trigger actions across connected apps,automation,documentation
+Zapier MCP Endpoint,https://mcp.zapier.com/,Zapier MCP connection entry point for authorized app actions,automation,tool
+Agent Skills,https://github.com/addyosmani/agent-skills,Reusable software-engineering agent skills,coding,tool
+Aider,https://aider.chat/#,Aider terminal coding assistant,coding,tool
+Andrej Karpathy Skills (forrestchang),https://github.com/forrestchang/andrej-karpathy-skills,Karpathy-inspired practical coding-agent guidelines,coding,reference
+Android Skills,https://github.com/android/skills,Android development skill collection,coding,tool
+Context7,https://github.com/upstash/context7,Fetch version-specific programming documentation,coding,tool
+ECC,https://github.com/affaan-m/ECC,Patterns for efficient agents and memory,coding,tool
+Flameox,https://github.com/morluto/flameox,Summarize software profiling traces for agents,coding,tool
+GitContribute,https://github.com/morluto/gitcontribute,Research repository guidance before submitting contributions,coding,tool
+Jacobian,https://github.com/morluto/jacobian,Typed mathematical tools for AI agents,coding,tool
+Karpathy Skills,https://github.com/multica-ai/andrej-karpathy-skills,"Four coding principles: clarity, simplicity, minimal edits, testing",coding,tool
+ReactiveCocoa/ReactiveCocoa,https://github.com/ReactiveCocoa/ReactiveCocoa,Reactive Cocoa development framework,coding,tool
+rig,https://github.com/0xPlaygrounds/rig,Rust framework for building LLM agents,coding,tool
+Rust Language,https://github.com/rust-lang/rust,Rust programming language source repository,coding,tool
+rustsbi/rustsbi,https://github.com/rustsbi/rustsbi,Rust RISC-V system firmware interface,coding,tool
+Superpowers,https://github.com/obra/superpowers,Structured software-development agent workflows,coding,tool
+TileLang,https://github.com/morluto/tilelang,Domain language for high-performance GPU kernels,coding,tool
+AISlopMeter,https://github.com/omergocmen/aislopmeter,Detect generic AI-generated interface patterns,design,tool
+AISlopMeter npm,https://www.npmjs.com/package/aislopmeter,Installable AISlopMeter UI analysis CLI,design,tool
+Anthropic frontend-design Skill,https://github.com/anthropics/skills/tree/main/skills/frontend-design,Frontend design skill and examples,design,tool
+Awesome DESIGN.md,https://github.com/VoltAgent/awesome-design-md,Design system and project guideline examples,design,tool
+egui,https://github.com/emilk/egui,Build immediate-mode graphical Rust interfaces,design,tool
+FreeCAD,https://github.com/FreeCAD/FreeCAD,Design parametric 3D CAD models,design,tool
+Humanizer,https://github.com/blader/humanizer,Rewrite artificial-sounding text,design,tool
+Impeccable,https://github.com/pbakaus/impeccable,Design auditing and UI quality skill,design,tool
+Impeccable official docs,https://impeccable.style,Official Impeccable documentation and setup,design,tool
+No AI Slop,https://github.com/petergyang/no-ai-slop,Remove filler from generated writing,design,tool
+react/react,https://github.com/react/react,React user-interface library,design,tool
+react/react-native,https://github.com/react/react-native,React Native mobile UI framework,design,tool
+Scroll Craft,https://github.com/nateherkai/scroll-craft,Build premium scroll-driven websites using a defined design and verification workflow,design,tool
+SolidCraft,https://github.com/tangency-labs/solidcraft,"Parametric 3D CAD for desktop and web, with CLI and MCP automation",design,tool
+Taiizor/ReaLTaiizor,https://github.com/Taiizor/ReaLTaiizor,Windows Forms user-interface library,design,tool
+tauri,https://github.com/tauri-apps/tauri,Build desktop apps using a Rust backend,design,tool
+UI UX Pro Max,https://github.com/nextlevelbuilder/ui-ux-pro-max-skill,"UI design styles, typography and UX workflow skill",design,tool
+Airbreak,https://github.com/osresearch/airbreak,Research involving CPAP medical devices; not an LLM tool,discovery,reference
+AirCard,https://github.com/Mak5er/AirCard,Wallet card overlay utility; unrelated to agent tools,discovery,reference
+anuraghazra/github-readme-stats,https://github.com/anuraghazra/github-readme-stats,Generate repository statistic cards,discovery,reference
+APIs.io,https://apis.io/,"Discover API providers and their documentation, schemas, and developer resources",discovery,directory
+Aseprite binary builds,https://github.com/mmozeiko/aseprite-bin,"Prebuilt Aseprite application binaries, not converters",discovery,reference
+Base64 Encode Decode,https://www.base64encode.org/,Web tool for Base64 encoding and decoding,discovery,reference
+Base64 Guru,https://base64.guru/converter,Encode or decode Base64 text and files,discovery,reference
+BAT to EXE,https://github.com/l-urk/Bat-To-Exe-Converter-64-Bit,Package batch scripts as EXE files; not native architecture conversion,discovery,tool
+BestWebStudio,https://bestwebstudio.com.tr/,General web/software service; verify relevance,discovery,reference
+cineglobe,https://github.com/cineglobe,Developer profile; not an installable tool,discovery,reference
+Claude Plugins Official,https://github.com/anthropics/claude-plugins-official,Find official Claude plugins,discovery,tool
+Free API,https://github.com/fangzesheng/free-api,Browse collections of free public APIs,discovery,reference
+Github 64bit search,https://github.com/search?q=64%20bit&type=repositories,GitHub search results for 64-bit projects,discovery,reference
+Github convert search,https://github.com/search?q=64%20bit%20convert&type=repositories,GitHub search results for conversion projects,discovery,reference
+Github converter search,https://github.com/search?q=64%20bit%20converter&type=repositories,GitHub search results for converter projects,discovery,reference
+GitHub Explore,https://github.com/explore,Discover GitHub projects by topic,discovery,reference
+GitHub Game God Mode Topics,https://github.com/topics/game-god-mode,Dynamic GitHub game topic search,discovery,reference
+GitHub No God Mode Topics,https://github.com/topics/no-god-mode,Dynamic GitHub topic search; not installable software,discovery,reference
+GitHub Topic Search,https://github.com/topics/illegal,Dynamic GitHub topic page; not an executable tool,discovery,reference
+GitHub Trending,https://github.com/trending,Find currently trending GitHub repositories,discovery,reference
+Godmode Package Manifest,https://github.com/NoobyGains/godmode/blob/master/package.json,Example package manifest for a GodMode project,discovery,reference
+GodMode Project,https://godmod3.ai,External project landing page; verify its scope,discovery,reference
+Google 32-to-64 Search,https://www.google.com/search?q=eski%2032bit%20programi%2064bite%20ceviren%20github,Google results about 32-bit application migration,discovery,reference
+Google 64-bit Search,https://www.google.com/search?q=64%20bit%20converter,Google search results about 64-bit conversion; not an app,discovery,reference
+GravelMythSignify,https://github.com/GravelMythSignify,Developer profile; not an installable tool,discovery,reference
+liannainefficient679,https://github.com/liannainefficient679,Developer profile; not an installable tool,discovery,reference
+LTSConvert,https://github.com/Bladez1992/LTSConvert,Change supported Windows installation editions; not binary conversion,discovery,reference
+matheofernandes27-lang (M4TH4CK3R),https://github.com/matheofernandes27-lang,Developer profile; not an installable tool,discovery,reference
+MIGHTY-JERRY (Jashan Singh),https://github.com/MIGHTY-JERRY,Developer profile; not an installable tool,discovery,reference
+nicklockwood/BaseModel,https://github.com/nicklockwood/BaseModel,Swift object-model programming library,discovery,reference
+npm publisher page,https://www.npmjs.com/~omerrgocmen,Publisher profile for AISlopMeter,discovery,reference
+Ornith AI,https://ornith.ai/,AI tool provider profile,discovery,reference
+Public APIs,https://github.com/public-apis/public-apis,Browse public API examples and endpoints,discovery,reference
+REA Social Post,https://x.com/0xCodila/status/2109623431763292649,REA social announcement; not technical documentation,discovery,reference
+ReaTeam/ReaScripts,https://github.com/ReaTeam/ReaScripts,REAPER script and audio automation collection,discovery,tool
+Repository search results,https://github.com/search?q=auto+gpt&type=repositories,Dynamic repository search page; not a project,discovery,reference
+Repository search results,https://github.com/search?q=dark&type=repositories,Dynamic repository search page; not a project,discovery,reference
+Scientific Agent Skills,https://github.com/K-Dense-AI/scientific-agent-skills,Discover research-focused agent skills,discovery,tool
+SeloGPT/selogpt-prompt-labs,https://github.com/SeloGPT/selogpt-prompt-labs,LLM prompt research laboratory,discovery,reference
+Sindre Sorhus Awesome,https://github.com/sindresorhus/awesome,Browse curated topic-specific lists of open-source tools and resources,discovery,directory
+skills.sh,https://skills.sh/,Discover reusable agent skills and installation options,discovery,directory
+SkillsDirectory,https://www.skillsdirectory.com/,Find agent skills and review their metadata,discovery,tool
+Steam ID Converter,https://github.com/ElektroStudios/Steam-ID-Converter,"Convert Steam account ID formats, not program architecture",discovery,reference
+TypeSafe AI,https://typesafe.ai/,Reference directory of AI-related tools,discovery,tool
+Vitalliman (Vitan),https://github.com/Vitalliman,Developer profile; not an installable tool,discovery,reference
+writerdeckOS,https://github.com/tinkersec/writerdeckOS,Convert a laptop into a distraction-free writing system,discovery,reference
+Xtool for Apple Development,https://github.com/xtool-org/xtool,Cross-platform Apple development tool reference,discovery,reference
+YouTube,https://www.youtube.com,YouTube video hosting and search,discovery,reference
+Bevy ECS,https://bevy.org/learn/quick-start/getting-started/ecs/,Official Bevy entity-component-system guide,games,tool
+Bevy Engine,https://github.com/bevyengine/bevy,Official Bevy Rust ECS game framework,games,tool
+Bevy Examples,https://github.com/bevyengine/bevy/tree/main/examples,Official version-specific Bevy example programs,games,tool
+Bevy Plugins,https://bevy.org/learn/quick-start/getting-started/plugins/,Official Bevy plugin system guide,games,tool
+Bevy Quick Start,https://bevy.org/learn/quick-start/getting-started/,Official Bevy beginner setup guide,games,tool
+Bevy Website,https://bevy.org/,Official Bevy framework website,games,tool
+Inori/Kyty,https://github.com/Inori/Kyty,Experimental PlayStation emulator reference,games,tool
+KSP x64 converter,https://github.com/godarklight/KSPx64Converter,Game-specific compatibility workaround for Kerbal Space Program,games,reference
+RPCSX/rpcsx,https://github.com/RPCSX/rpcsx,Research PlayStation 4 emulation,games,tool
+sgsellan/fracture-modes,https://github.com/sgsellan/fracture-modes,Experimental game physics modes,games,tool
+SpecialKO/SpecialK,https://github.com/SpecialKO/SpecialK,Analyze and optimize PC game performance,games,tool
+UE4SS-RE/RE-UE4SS,https://github.com/UE4SS-RE/RE-UE4SS,Modify or inspect Unreal Engine applications,games,tool
+Canva MCP,https://community.canva.dev/t/the-wait-list-is-over-canva-mcp-server-is-now-generally-available/8942,Official Canva developer announcement and setup entry point for the Canva MCP server,integrations,documentation
+Context7 MCP Endpoint,https://mcp.context7.com/mcp,Fetch version-specific library documentation and code examples through MCP,integrations,tool
+Figma MCP Docs,https://developers.figma.com/docs/figma-mcp-server/,Official Figma MCP documentation for design context and creating or editing native Figma content,integrations,documentation
+Figma MCP Endpoint,https://mcp.figma.com/mcp,Official remote Figma MCP endpoint; requires a supported client and account authorization,integrations,tool
+GitHub MCP Endpoint,https://api.githubcopilot.com/mcp/,Hosted GitHub MCP endpoint; client support and authorization may vary,integrations,tool
+GitHub MCP Server,https://github.com/github/github-mcp-server,"Official GitHub MCP server for repository, issue, pull request, and workflow tasks",integrations,tool
+HubSpot Developer Docs,https://developers.hubspot.com/,"Official HubSpot developer documentation for CRM, marketing, sales, and automation APIs",integrations,documentation
+Miro MCP Docs,https://developers.miro.com/docs/miro-mcp,Official guide for connecting AI tools to Miro boards,integrations,documentation
+Miro MCP Endpoint,https://mcp.miro.com/,Official remote Miro MCP endpoint for reading and editing boards after OAuth authorization,integrations,tool
+Notion MCP Docs,https://www.notion.com/help/notion-mcp,Official guide to connecting AI apps to Notion pages and databases,integrations,documentation
+Notion MCP Endpoint,https://mcp.notion.com/mcp,Official remote Notion MCP endpoint; authenticate to access the selected workspace,integrations,tool
+Shopify Dev MCP,https://shopify.dev/docs/apps/build/devmcp,Official Shopify Dev MCP documentation for app development and store workflows,integrations,documentation
+Stripe MCP Docs,https://docs.stripe.com/mcp,Official setup and usage documentation for Stripe MCP,integrations,documentation
+Stripe MCP Endpoint,https://mcp.stripe.com,Official remote Stripe MCP endpoint; requires account authorization,integrations,tool
+Supabase MCP Docs,https://supabase.com/docs/guides/ai-tools/mcp,Official setup guide for connecting AI agents to Supabase projects through MCP,integrations,documentation
+Supabase MCP Endpoint,https://mcp.supabase.com/mcp,Official remote Supabase MCP endpoint; scope access to the required project and tools,integrations,tool
+Vercel MCP Docs,https://vercel.com/docs/ai-tooling/vercel-mcp,"Official Vercel MCP documentation for projects, deployments, logs, and documentation search",integrations,documentation
+Vercel MCP Endpoint,https://mcp.vercel.com,Official remote Vercel MCP endpoint with OAuth,integrations,tool
+Google Analytics MCP,https://developers.google.com/analytics/devguides/MCP,Official read-only MCP server documentation for querying Google Analytics data,marketing,documentation
+Meta Marketing API,https://developers.facebook.com/docs/marketing-api/,"Official Meta Marketing API documentation for ad accounts, campaigns, insights, and reporting",marketing,documentation
+Apify MCP Endpoint,https://mcp.apify.com/,"Hosted Apify MCP endpoint for website, social, search, map, and ecommerce extraction using Actors",mcp,tool
+Apify MCP Server,https://github.com/apify/apify-mcp-server,Connect Apify web data tools through MCP,mcp,tool
+APIs.io MCP,https://apis.io/mcp,MCP interface for searching the APIs.io API catalog,mcp,tool
+FreeCAD MCP,https://github.com/neka-nat/freecad-mcp,Connect FreeCAD to agents over MCP,mcp,tool
+MCP Market,https://mcpmarket.com/,"Search and compare MCP servers, agent skills, and integrations by task",mcp,directory
+MCP Reference Servers,https://github.com/modelcontextprotocol/servers,Official collection of MCP example servers,mcp,tool
+MCP Specification,https://modelcontextprotocol.io/,Official MCP client-server protocol and transports,mcp,tool
+MCP.so,https://mcp.so/,Discover community MCP servers,mcp,tool
+Model Context Protocol,https://github.com/modelcontextprotocol,Official Model Context Protocol specification,mcp,tool
+RMCP Rust SDK,https://github.com/modelcontextprotocol/rust-sdk,Official Rust SDK for implementing MCP clients and servers,mcp,tool
+Cactus Compute Needle,https://github.com/cactus-compute/needle,On-device assistant and speech runtime,media,tool
+Claude Video,https://github.com/bradautomates/claude-video,Review videos through frames and transcripts,media,tool
+Commentary Video,https://www.youtube.com/watch?v=W1kSpErGj9c,"External commentary video, not a coding tool",media,reference
+Entertainment Video,https://www.youtube.com/watch?v=D9p6GnDe4aI,External entertainment video; not an agent tool,media,reference
+Finance Commentary Video,https://www.youtube.com/watch?v=Tdabw69w2UU&t=12s,External finance and entertainment video,media,reference
+Hardware Commentary Video,https://www.youtube.com/watch?v=y_9dXY60e_4&list=PPSV,External hardware commentary video,media,reference
+Hyperframes,https://github.com/heygen-com/hyperframes,Build web video layouts from HTML,media,tool
+Model Commentary Video,https://www.youtube.com/results?search_query=sans%C3%BCrs%C3%BCz+ai,External model commentary video,media,reference
+NDI to JACK,https://github.com/lplassman/NDI-to-JACK,Route NDI audio to JACK,media,tool
+Needle 3 Model and Runtime,https://huggingface.co/Cactus-Compute/needle3,Download Needle speech and tool models,media,tool
+News Video,https://www.youtube.com/watch?v=TkvNPF9cdPg,"External news video, not an agent tool",media,reference
+OpenMontage,https://github.com/calesthio/OpenMontage,Agentic video production system with reusable pipelines and production knowledge,media,tool
+Remotion Skills,https://github.com/remotion-dev/skills,"Video animation, composition and rendering skills for Remotion",media,tool
+Software Demo Video,https://www.youtube.com/watch?v=VCscI8-pnbA,External software demonstration video,media,reference
+UI Quality Video,https://www.youtube.com/watch?v=vpXuMOfcZxI,External video reference; inspect only if relevant,media,reference
+V4L2 to NDI,https://github.com/lplassman/V4L2-to-NDI,Bridge Linux camera video to NDI,media,tool
+VoiceStudio,https://github.com/debpalash/VoiceStudio,Local speech processing and dubbing tools,media,tool
+Whistle,https://cactuscompute.com/blog/whistle,Whistle speech and tool-calling model reference,media,tool
+Whistle Speech Model,https://huggingface.co/Cactus-Compute/whistle,Whistle downloadable speech-recognition model,media,tool
+Claude Mem,https://github.com/thedotmack/claude-mem,Persist project context for Claude Code sessions,memory,tool
+Claude Obsidian Memory Guide,https://www.isanurdogdu.com/kaynaklar/claude-obsidian-ikinci-beyin,Guide to organizing Claude project memory with Obsidian,memory,tool
+Context Mode,https://github.com/mksglu/context-mode,Reduce excess context in agent sessions,memory,tool
+Headroom,https://github.com/headroomlabs-ai/headroom,Compress agent context while monitoring information loss,memory,tool
+Hindsight,https://github.com/vectorize-io/hindsight,Persistent recall and learning memory for agents,memory,tool
+Karpathy LLM Wiki Gist,https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f,Guide to organizing a file-based LLM wiki,memory,reference
+Obsidian,https://obsidian.md/,Explore and link local Markdown notes,memory,tool
+AutoGPTQ/AutoGPTQ,https://github.com/AutoGPTQ/AutoGPTQ,Quantize LLMs for reduced memory use,models,tool
+candle,https://github.com/huggingface/candle,Rust tensors and neural-network inference,models,tool
+DeepInfer,https://github.com/deepseek-ai/DeepInfer,"High-performance offline inference framework for supported DeepSeek models; check Linux, Python, and accelerator requirements",models,tool
+Dolphin 3 8B,https://ollama.com/library/dolphin3,Locally runnable Dolphin language model variant,models,tool
+Dolphin Llama 3,https://ollama.com/library/dolphin-llama3,Locally runnable Dolphin Llama model variant,models,tool
+Dolphin Mistral 7B,https://ollama.com/library/dolphin-mistral,Locally runnable Dolphin Mistral model variant,models,tool
+FreeToken,https://github.com/FlashML-org/FreeToken,Explore local model serving approaches,models,tool
+GPT API Free,https://github.com/chatanywhere/GPT_API_free,Browse third-party AI API gateways,models,tool
+GPT4Free,https://github.com/xtekky/gpt4free,Explore unofficial model access clients,models,tool
+Hermes 3,https://ollama.com/library/hermes3,Tool-using Hermes language model,models,tool
+llama.cpp,https://github.com/ggml-org/llama.cpp,Run local models and compatible inference servers,models,tool
+LM Studio,https://lmstudio.ai/,Run language models locally,models,tool
+mistral.rs,https://github.com/EricLBuehler/mistral.rs,Run machine-learning models with Rust,models,tool
+Modded NanoGPT,https://github.com/ornith-ai/modded-nanogpt,Small GPT training implementation reference,models,tool
+ollama,https://github.com/ollama/ollama,Run and serve local models through Ollama,models,tool
+SeloGPT (SeloGPT),https://github.com/SeloGPT,Experimental LLM project profile,models,reference
+86x64,https://github.com/nmosier/86x64,Experimental macOS i386 to x86-64 application translation,reverse-engineering,tool
+albertan017/LLM4Decompile,https://github.com/albertan017/LLM4Decompile,Research model-assisted decompilation,reverse-engineering,tool
+Awesome Reverse Engineering,https://github.com/morluto/awesome-reverse-engineering,Curated collection of reverse-engineering tools,reverse-engineering,reference
+bbylw/rea-cn,https://github.com/bbylw/rea-cn,Unofficial REA-related translation or fork,reverse-engineering,tool
+cyberkaida/reverse-engineering-assistant,https://github.com/cyberkaida/reverse-engineering-assistant,Ghidra-assisted reverse-engineering agent,reverse-engineering,tool
+Ghidra,https://github.com/NationalSecurityAgency/ghidra,Ghidra reverse-engineering framework,reverse-engineering,tool
+GhidraDec,https://github.com/GregoryMorse/GhidraDec,Use Ghidra decompiler inside IDA Pro,reverse-engineering,tool
+GhidraIDA,https://github.com/NyaMisty/GhidraIDA,Configure Ghidra with IDA-like interaction patterns,reverse-engineering,tool
+github.com/rea-tools/rea,https://github.com/rea-tools/rea,Unverified similarly named REA repository; use official source instead,reverse-engineering,tool
+JusticeRage/Gepetto,https://github.com/JusticeRage/Gepetto,LLM-assisted binary analysis inside Ghidra,reverse-engineering,tool
+LLM4Binary (LLM4Binary),https://huggingface.co/LLM4Binary,Research library for binary-focused LLMs,reverse-engineering,tool
+LLM4Decompile Model,https://huggingface.co/LLM4Binary/llm4decompile-6.7b-v1.5,Experimental binary decompilation model weights,reverse-engineering,tool
+Made with REA Prompts,https://madewithrea.com/prompts,Third-party example prompts for REA analysis,reverse-engineering,reference
+McSema,https://github.com/lifting-bits/mcsema,Lift native machine code into LLVM bitcode; not EXE conversion,reverse-engineering,tool
+Microsoft IPC 32/64,https://learn.microsoft.com/en-us/windows/win32/winprog64/process-interoperability,Microsoft documentation for cross-bitness IPC and COM,reverse-engineering,tool
+Microsoft WOW64,https://learn.microsoft.com/en-us/windows/win32/winprog64/running-32-bit-applications,Microsoft documentation for running 32-bit apps on 64-bit Windows,reverse-engineering,tool
+mrexodia/ida-pro-mcp,https://github.com/mrexodia/ida-pro-mcp,Connect IDA Pro disassembly tools through MCP,reverse-engineering,tool
+objconv,https://github.com/gitGNU/objconv,"Convert object files and libraries, not complete EXEs",reverse-engineering,tool
+REA Author Profile,https://github.com/morluto,Author profile for the REA project,reverse-engineering,reference
+REA Guides,https://rea.tools/guides/,REA official setup and provider documentation,reverse-engineering,tool
+REA official,https://github.com/morluto/rea,Analyze native programs using REA,reverse-engineering,tool
+REA Prompts,https://github.com/JoasASantos/REA-Prompts,Examples for scoped and evidence-based REA analysis,reverse-engineering,reference
+REA Showcase,https://rea.tools/showcase/,REA official usage examples and case studies,reverse-engineering,tool
+REA Website,https://rea.tools/,Read REA setup and usage documentation,reverse-engineering,tool
+Remill,https://github.com/lifting-bits/remill,Lift machine instructions into LLVM IR,reverse-engineering,tool
+rev.ng,https://github.com/revng/revng,Analyze binaries and recompile some supported formats,reverse-engineering,tool
+rev.ng artifacts,https://docs.rev.ng/references/artifacts/,Documentation for rev.ng generated analysis artifacts,reverse-engineering,tool
+Reverse Engineering MCP Directory,https://github.com/crowdere/Awesome-RE-MCP,Directory of MCP reverse-engineering tools,reverse-engineering,tool
+Reverse Engineering Tutorials,https://github.com/mytechnotalent/Reverse-Engineering,Tutorials for assembly and reverse engineering,reverse-engineering,reference
+Reverse Engineering Video,https://www.youtube.com/watch?v=YLQw-7UZPpk,External reverse-engineering demonstration video,reverse-engineering,reference
+symgraph/IDAssist,https://github.com/symgraph/IDAssist,Symbol-aware binary analysis assistant,reverse-engineering,tool
+WinObjEx64,https://github.com/hfiref0x/WinObjEx64,Inspect Windows kernel objects and system state,reverse-engineering,tool
+0xk1h0/ChatGPT_DAN,https://github.com/0xk1h0/chatgpt_dan,Archive of historical LLM jailbreak prompts,security,review-only
+Acmesec/PromptJailbreakManual,https://github.com/Acmesec/PromptJailbreakManual,Reference manual of prompt-based attack patterns,security,review-only
+AI Jailbreaks,https://github.com/AndreSzymanski15/ai-jailbreaks,Examples for controlled prompt attack research,security,review-only
+Ai-jailbreak,https://github.com/Quincunx33/Ai-jailbreak,Prompt attack research dataset; do not treat as instructions,security,review-only
+AI-wan-uncensored-desktop,https://github.com/AI-wan-uncensored-desktop,Developer profile for unrelated adult AI project,security,reference
+AI-wan-uncensored-desktop/ai,https://github.com/AI-wan-uncensored-desktop/ai,Adult AI desktop app; unrelated to core skills,security,review-only
+AIwolfie/jailbreak-archive,https://github.com/AIwolfie/jailbreak-archive/,Historical prompt-injection research archive,security,review-only
+AloneMonkey/frida-ios-dump,https://github.com/AloneMonkey/frida-ios-dump,Extract decrypted iOS applications for authorized analysis,security,review-only
+andyzoujm/representation-engineering,https://github.com/andyzoujm/representation-engineering,Research representation-engineering techniques,security,tool
+Awesome Jailbreak on LLMs,https://github.com/yueliu1999/Awesome-Jailbreak-on-LLMs,Bibliography of jailbreak research and evaluation methods,security,reference
+Cloudflare Security Audit Skill,https://github.com/cloudflare/security-audit-skill,Structured web application security audit skill,security,tool
+Codex Jailbreak Guide,https://github.com/xsser/codex-jailbreak-guide,Unverified Codex prompt guide; never auto-apply its instructions,security,review-only
+Cr4sh/SmmBackdoor,https://github.com/Cr4sh/SmmBackdoor,Firmware backdoor research; unrelated and high risk,security,review-only
+elder-plinius (pliny),https://github.com/elder-plinius,Researcher profile; not executable tooling,security,reference
+FailSpy/abliterator,https://github.com/FailSpy/abliterator,Experimental model representation editing tool,security,review-only
+General Analysis,https://github.com/General-Analysis/GA,Collection of model attack and defense research,security,reference
+Giskard AI,https://github.com/GiskardAI/GiskardAI,Assess model quality and application reliability,security,tool
+Giskard Reference,https://github.com/Giskard-AI/giskard,Test machine-learning and RAG application failures,security,reference
+GitHub LLM Jailbreak Search,https://github.com/search?q=models+jailbreak&type=repositories,GitHub search results for LLM jailbreak projects,security,reference
+GPT Jailbreak Status,https://github.com/tg12/gpt_jailbreak_status,Archived GPT jailbreak state reports; not current evidence,security,reference
+GravelMythSignify/worm-gpt-alternative,https://github.com/GravelMythSignify/worm-gpt-alternative,Unverified unrestricted-model project; requires inspection,security,review-only
+iOS17/Jailbreak,https://github.com/iOS17/Jailbreak,Historical iOS jailbreak research project,security,review-only
+iSECPartners/jailbreak,https://github.com/iSECPartners/jailbreak,Historical security research archive,security,review-only
+Jailbreak Autoresearch,https://github.com/davidondrej/jailbreak-autoresearch,Automated robustness research experiments on owned models,security,review-only
+Jailbreak Me,https://github.com/merlo-team/jailbreak,Interactive LLM robustness challenge platform,security,reference
+JailbreakBench,https://github.com/JailbreakBench/jailbreakbench,Open benchmark for LLM jailbreak resilience,security,tool
+jjolano/shadow,https://github.com/jjolano/shadow,Research iOS jailbreak-detection bypass methods,security,review-only
+liannainefficient679/GirlChat-AdultCompanion-2026,https://github.com/liannainefficient679/GirlChat-AdultCompanion-2026,Adult chat project; outside coding-agent scope,security,review-only
+LLM Jailbreaks,https://github.com/langgptai/LLM-Jailbreaks,LLM prompt leakage and jailbreak benchmark examples,security,review-only
+matheofernandes27-lang/Dark-gpt-v1-free,https://github.com/matheofernandes27-lang/Dark-gpt-v1-free,Unverified modified GPT project,security,review-only
+MIGHTY-JERRY/Nova-Unrestricted-Ai,https://github.com/MIGHTY-JERRY/Nova-Unrestricted-Ai,Unverified unrestricted AI model app,security,review-only
+MLLM Jailbreak Bench,https://github.com/ziyuwowo/mllm-jailbreak-bench,Benchmark for multimodal model robustness,security,tool
+MPC Platform,https://github.com/CircuitMurderer/MPC-Platform,"Verify multi-party computation results using secret sharing and homomorphic encryption; MPC here means multi-party computation, not Model Context Protocol",security,tool
+NeuroSploit,https://github.com/JoasASantos/NeuroSploit,Automated penetration-testing framework for authorized systems,security,review-only
+NousResearch/llm-abliteration,https://github.com/NousResearch/llm-abliteration,Study LLM representation editing experiments,security,tool
+NVIDIA Garak,https://github.com/NVIDIA/garak,Scan LLM systems for security weaknesses,security,tool
+NVIDIA OpenShell,https://github.com/NVIDIA/OpenShell,Policy-controlled sandbox for agent processes,security,tool
+p-e-w/heretic,https://github.com/p-e-w/heretic,Study modified model behavior and weights,security,tool
+patrickrchao/JailbreakingLLMs,https://github.com/patrickrchao/JailbreakingLLMs,Research attacks and LLM resilience measurement,security,tool
+Pentagi,https://github.com/vxcontrol/pentagi,Autonomous security testing framework; authorized use only,security,tool
+Promptfoo,https://github.com/promptfoo/promptfoo,Evaluate LLM behavior through repeatable test cases,security,tool
+Representation Research Link,https://github.com/vgel/repeng,Representation-editing research reference; link may be unavailable,security,reference
+ricyoung/abliteration-comparison,https://github.com/ricyoung/abliteration-comparison,Compare changes from model representation editing,security,tool
+SkillSpector,https://github.com/nvidia/skillspector,Scan third-party AI skills for risks,security,tool
+spkgyk/abliteration,https://github.com/spkgyk/abliteration,Research model representation editing,security,tool
+steering-vectors/steering-vectors,https://github.com/steering-vectors/steering-vectors,Research activation-based model steering vectors,security,tool
+Sumandora/remove-refusals-with-transformers,https://github.com/Sumandora/remove-refusals-with-transformers,Experimental model behavior editing script,security,review-only
+Tencent AI Infra Guard,https://github.com/Tencent/AI-Infra-Guard,Security evaluation for AI and MCP infrastructure,security,tool
+togg53192-cmd/jailbreaks,https://github.com/togg53192-cmd/jailbreaks,Historical security research archive,security,reference
+Unavailable Research Link,https://github.com/andi611/refusal_direction,Project reference; link may be unavailable,security,reference
+verazuo/jailbreak_llms,https://github.com/verazuo/jailbreak_llms,Dataset for evaluating LLM jailbreak resilience,security,review-only
+Visual Adversarial Examples,https://github.com/Unispac/Visual-Adversarial-Examples-Jailbreak-Large-Language-Models,Research adversarial images and model robustness,security,reference
+Vitalliman/cloudflare-bypass-ai,https://github.com/Vitalliman/cloudflare-bypass-ai,Unverified Cloudflare evasion project; avoid automatic integration,security,review-only
+ZORG Prompt,https://github.com/trinib/ZORG-Jailbreak-Prompt-Text,Example adversarial test prompt for approved evaluations,security,review-only
+Chrome DevTools MCP,https://github.com/ChromeDevTools/chrome-devtools-mcp,"Inspect and automate Chrome, debug network and console issues, take screenshots, and profile performance",web,tool
+Firecrawl,https://github.com/firecrawl/firecrawl,Extract and structure data from websites,web,tool
+Playwright,https://github.com/microsoft/playwright,Automate browsers and test web apps,web,tool
+Playwright CLI,https://github.com/microsoft/playwright-cli,Control browsers from the command line,web,tool

@@ -1,0 +1,2095 @@
+[
+  {
+    "name": "Hyperframes",
+    "url": "https://github.com/heygen-com/hyperframes",
+    "purpose": "Build web video layouts from HTML",
+    "group": "media",
+    "kind": "tool"
+  },
+  {
+    "name": "Claude Video",
+    "url": "https://github.com/bradautomates/claude-video",
+    "purpose": "Review videos through frames and transcripts",
+    "group": "media",
+    "kind": "tool"
+  },
+  {
+    "name": "Firecrawl",
+    "url": "https://github.com/firecrawl/firecrawl",
+    "purpose": "Extract and structure data from websites",
+    "group": "web",
+    "kind": "tool"
+  },
+  {
+    "name": "Apify MCP Server",
+    "url": "https://github.com/apify/apify-mcp-server",
+    "purpose": "Connect Apify web data tools through MCP",
+    "group": "mcp",
+    "kind": "tool"
+  },
+  {
+    "name": "Playwright",
+    "url": "https://github.com/microsoft/playwright",
+    "purpose": "Automate browsers and test web apps",
+    "group": "web",
+    "kind": "tool"
+  },
+  {
+    "name": "Agent Skills",
+    "url": "https://github.com/addyosmani/agent-skills",
+    "purpose": "Reusable software-engineering agent skills",
+    "group": "coding",
+    "kind": "tool"
+  },
+  {
+    "name": "Humanizer",
+    "url": "https://github.com/blader/humanizer",
+    "purpose": "Rewrite artificial-sounding text",
+    "group": "design",
+    "kind": "tool"
+  },
+  {
+    "name": "Playwright CLI",
+    "url": "https://github.com/microsoft/playwright-cli",
+    "purpose": "Control browsers from the command line",
+    "group": "web",
+    "kind": "tool"
+  },
+  {
+    "name": "Superpowers",
+    "url": "https://github.com/obra/superpowers",
+    "purpose": "Structured software-development agent workflows",
+    "group": "coding",
+    "kind": "tool"
+  },
+  {
+    "name": "SkillSpector",
+    "url": "https://github.com/nvidia/skillspector",
+    "purpose": "Scan third-party AI skills for risks",
+    "group": "security",
+    "kind": "tool"
+  },
+  {
+    "name": "No AI Slop",
+    "url": "https://github.com/petergyang/no-ai-slop",
+    "purpose": "Remove filler from generated writing",
+    "group": "design",
+    "kind": "tool"
+  },
+  {
+    "name": "LM Studio",
+    "url": "https://lmstudio.ai/",
+    "purpose": "Run language models locally",
+    "group": "models",
+    "kind": "tool"
+  },
+  {
+    "name": "MCP.so",
+    "url": "https://mcp.so/",
+    "purpose": "Discover community MCP servers",
+    "group": "mcp",
+    "kind": "tool"
+  },
+  {
+    "name": "ACME LLM Tools",
+    "url": "https://github.com/fhs/acme-llm-tools",
+    "purpose": "Bridge an Acme editor to an LLM",
+    "group": "agents",
+    "kind": "tool"
+  },
+  {
+    "name": "GitHub Explore",
+    "url": "https://github.com/explore",
+    "purpose": "Discover GitHub projects by topic",
+    "group": "discovery",
+    "kind": "reference"
+  },
+  {
+    "name": "TypeSafe AI",
+    "url": "https://typesafe.ai/",
+    "purpose": "Reference directory of AI-related tools",
+    "group": "discovery",
+    "kind": "tool"
+  },
+  {
+    "name": "REA official",
+    "url": "https://github.com/morluto/rea",
+    "purpose": "Analyze native programs using REA",
+    "group": "reverse-engineering",
+    "kind": "tool"
+  },
+  {
+    "name": "REA Website",
+    "url": "https://rea.tools/",
+    "purpose": "Read REA setup and usage documentation",
+    "group": "reverse-engineering",
+    "kind": "tool"
+  },
+  {
+    "name": "GitHub Trending",
+    "url": "https://github.com/trending",
+    "purpose": "Find currently trending GitHub repositories",
+    "group": "discovery",
+    "kind": "reference"
+  },
+  {
+    "name": "VoiceStudio",
+    "url": "https://github.com/debpalash/VoiceStudio",
+    "purpose": "Local speech processing and dubbing tools",
+    "group": "media",
+    "kind": "tool"
+  },
+  {
+    "name": "Pi",
+    "url": "https://github.com/earendil-works/pi",
+    "purpose": "Use terminal-based coding agents",
+    "group": "agents",
+    "kind": "tool"
+  },
+  {
+    "name": "AI Job Search",
+    "url": "https://github.com/MadsLorentzen/ai-job-search",
+    "purpose": "Automate selected job-search tasks",
+    "group": "agents",
+    "kind": "tool"
+  },
+  {
+    "name": "FreeToken",
+    "url": "https://github.com/FlashML-org/FreeToken",
+    "purpose": "Explore local model serving approaches",
+    "group": "models",
+    "kind": "tool"
+  },
+  {
+    "name": "FreeCAD",
+    "url": "https://github.com/FreeCAD/FreeCAD",
+    "purpose": "Design parametric 3D CAD models",
+    "group": "design",
+    "kind": "tool"
+  },
+  {
+    "name": "GPT4Free",
+    "url": "https://github.com/xtekky/gpt4free",
+    "purpose": "Explore unofficial model access clients",
+    "group": "models",
+    "kind": "tool"
+  },
+  {
+    "name": "Free Claude Code",
+    "url": "https://github.com/Alishahryar1/free-claude-code",
+    "purpose": "Experimental coding-agent access wrapper",
+    "group": "agents",
+    "kind": "tool"
+  },
+  {
+    "name": "GPT API Free",
+    "url": "https://github.com/chatanywhere/GPT_API_free",
+    "purpose": "Browse third-party AI API gateways",
+    "group": "models",
+    "kind": "tool"
+  },
+  {
+    "name": "Free Code",
+    "url": "https://github.com/freecodexyz/free-code",
+    "purpose": "Experimental modified coding-agent tool",
+    "group": "agents",
+    "kind": "tool"
+  },
+  {
+    "name": "FreeCAD MCP",
+    "url": "https://github.com/neka-nat/freecad-mcp",
+    "purpose": "Connect FreeCAD to agents over MCP",
+    "group": "mcp",
+    "kind": "tool"
+  },
+  {
+    "name": "Free API",
+    "url": "https://github.com/fangzesheng/free-api",
+    "purpose": "Browse collections of free public APIs",
+    "group": "discovery",
+    "kind": "reference"
+  },
+  {
+    "name": "Public APIs",
+    "url": "https://github.com/public-apis/public-apis",
+    "purpose": "Browse public API examples and endpoints",
+    "group": "discovery",
+    "kind": "reference"
+  },
+  {
+    "name": "Claude Plugins Official",
+    "url": "https://github.com/anthropics/claude-plugins-official",
+    "purpose": "Find official Claude plugins",
+    "group": "discovery",
+    "kind": "tool"
+  },
+  {
+    "name": "Scientific Agent Skills",
+    "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+    "purpose": "Discover research-focused agent skills",
+    "group": "discovery",
+    "kind": "tool"
+  },
+  {
+    "name": "ECC",
+    "url": "https://github.com/affaan-m/ECC",
+    "purpose": "Patterns for efficient agents and memory",
+    "group": "coding",
+    "kind": "tool"
+  },
+  {
+    "name": "CLI Anything",
+    "url": "https://github.com/HKUDS/CLI-Anything",
+    "purpose": "Expose application functionality through CLI tools",
+    "group": "agents",
+    "kind": "tool"
+  },
+  {
+    "name": "Context Mode",
+    "url": "https://github.com/mksglu/context-mode",
+    "purpose": "Reduce excess context in agent sessions",
+    "group": "memory",
+    "kind": "tool"
+  },
+  {
+    "name": "Ruflo",
+    "url": "https://github.com/ruvnet/ruflo",
+    "purpose": "Study multi-agent workflow orchestration",
+    "group": "agents",
+    "kind": "tool"
+  },
+  {
+    "name": "Android Skills",
+    "url": "https://github.com/android/skills",
+    "purpose": "Android development skill collection",
+    "group": "coding",
+    "kind": "tool"
+  },
+  {
+    "name": "Cursor Plugins",
+    "url": "https://github.com/cursor/plugins",
+    "purpose": "Discover Cursor plugins",
+    "group": "agents",
+    "kind": "tool"
+  },
+  {
+    "name": "Xtool for Apple Development",
+    "url": "https://github.com/xtool-org/xtool",
+    "purpose": "Cross-platform Apple development tool reference",
+    "group": "discovery",
+    "kind": "reference"
+  },
+  {
+    "name": "REA Author Profile",
+    "url": "https://github.com/morluto",
+    "purpose": "Author profile for the REA project",
+    "group": "reverse-engineering",
+    "kind": "reference"
+  },
+  {
+    "name": "Aider",
+    "url": "https://aider.chat/#",
+    "purpose": "Aider terminal coding assistant",
+    "group": "coding",
+    "kind": "tool"
+  },
+  {
+    "name": "Model Context Protocol",
+    "url": "https://github.com/modelcontextprotocol",
+    "purpose": "Official Model Context Protocol specification",
+    "group": "mcp",
+    "kind": "tool"
+  },
+  {
+    "name": "Modded NanoGPT",
+    "url": "https://github.com/ornith-ai/modded-nanogpt",
+    "purpose": "Small GPT training implementation reference",
+    "group": "models",
+    "kind": "tool"
+  },
+  {
+    "name": "Rust Language",
+    "url": "https://github.com/rust-lang/rust",
+    "purpose": "Rust programming language source repository",
+    "group": "coding",
+    "kind": "tool"
+  },
+  {
+    "name": "Ornith AI",
+    "url": "https://ornith.ai/",
+    "purpose": "AI tool provider profile",
+    "group": "discovery",
+    "kind": "reference"
+  },
+  {
+    "name": "Ghidra",
+    "url": "https://github.com/NationalSecurityAgency/ghidra",
+    "purpose": "Ghidra reverse-engineering framework",
+    "group": "reverse-engineering",
+    "kind": "tool"
+  },
+  {
+    "name": "Reverse Engineering MCP Directory",
+    "url": "https://github.com/crowdere/Awesome-RE-MCP",
+    "purpose": "Directory of MCP reverse-engineering tools",
+    "group": "reverse-engineering",
+    "kind": "tool"
+  },
+  {
+    "name": "Pentagi",
+    "url": "https://github.com/vxcontrol/pentagi",
+    "purpose": "Autonomous security testing framework; authorized use only",
+    "group": "security",
+    "kind": "tool"
+  },
+  {
+    "name": "UI Quality Video",
+    "url": "https://www.youtube.com/watch?v=vpXuMOfcZxI",
+    "purpose": "External video reference; inspect only if relevant",
+    "group": "media",
+    "kind": "reference"
+  },
+  {
+    "name": "Entertainment Video",
+    "url": "https://www.youtube.com/watch?v=D9p6GnDe4aI",
+    "purpose": "External entertainment video; not an agent tool",
+    "group": "media",
+    "kind": "reference"
+  },
+  {
+    "name": "Reverse Engineering Video",
+    "url": "https://www.youtube.com/watch?v=YLQw-7UZPpk",
+    "purpose": "External reverse-engineering demonstration video",
+    "group": "reverse-engineering",
+    "kind": "reference"
+  },
+  {
+    "name": "Taiizor/ReaLTaiizor",
+    "url": "https://github.com/Taiizor/ReaLTaiizor",
+    "purpose": "Windows Forms user-interface library",
+    "group": "design",
+    "kind": "tool"
+  },
+  {
+    "name": "react/react",
+    "url": "https://github.com/react/react",
+    "purpose": "React user-interface library",
+    "group": "design",
+    "kind": "tool"
+  },
+  {
+    "name": "ReaTeam/ReaScripts",
+    "url": "https://github.com/ReaTeam/ReaScripts",
+    "purpose": "REAPER script and audio automation collection",
+    "group": "discovery",
+    "kind": "tool"
+  },
+  {
+    "name": "bbylw/rea-cn",
+    "url": "https://github.com/bbylw/rea-cn",
+    "purpose": "Unofficial REA-related translation or fork",
+    "group": "reverse-engineering",
+    "kind": "tool"
+  },
+  {
+    "name": "react/react-native",
+    "url": "https://github.com/react/react-native",
+    "purpose": "React Native mobile UI framework",
+    "group": "design",
+    "kind": "tool"
+  },
+  {
+    "name": "anuraghazra/github-readme-stats",
+    "url": "https://github.com/anuraghazra/github-readme-stats",
+    "purpose": "Generate repository statistic cards",
+    "group": "discovery",
+    "kind": "reference"
+  },
+  {
+    "name": "ReactiveCocoa/ReactiveCocoa",
+    "url": "https://github.com/ReactiveCocoa/ReactiveCocoa",
+    "purpose": "Reactive Cocoa development framework",
+    "group": "coding",
+    "kind": "tool"
+  },
+  {
+    "name": "Finance Commentary Video",
+    "url": "https://www.youtube.com/watch?v=Tdabw69w2UU&t=12s",
+    "purpose": "External finance and entertainment video",
+    "group": "media",
+    "kind": "reference"
+  },
+  {
+    "name": "Software Demo Video",
+    "url": "https://www.youtube.com/watch?v=VCscI8-pnbA",
+    "purpose": "External software demonstration video",
+    "group": "media",
+    "kind": "reference"
+  },
+  {
+    "name": "YouTube",
+    "url": "https://www.youtube.com",
+    "purpose": "YouTube video hosting and search",
+    "group": "discovery",
+    "kind": "reference"
+  },
+  {
+    "name": "Commentary Video",
+    "url": "https://www.youtube.com/watch?v=W1kSpErGj9c",
+    "purpose": "External commentary video, not a coding tool",
+    "group": "media",
+    "kind": "reference"
+  },
+  {
+    "name": "Model Commentary Video",
+    "url": "https://www.youtube.com/results?search_query=sans%C3%BCrs%C3%BCz+ai",
+    "purpose": "External model commentary video",
+    "group": "media",
+    "kind": "reference"
+  },
+  {
+    "name": "News Video",
+    "url": "https://www.youtube.com/watch?v=TkvNPF9cdPg",
+    "purpose": "External news video, not an agent tool",
+    "group": "media",
+    "kind": "reference"
+  },
+  {
+    "name": "BestWebStudio",
+    "url": "https://bestwebstudio.com.tr/",
+    "purpose": "General web/software service; verify relevance",
+    "group": "discovery",
+    "kind": "reference"
+  },
+  {
+    "name": "Hardware Commentary Video",
+    "url": "https://www.youtube.com/watch?v=y_9dXY60e_4&list=PPSV",
+    "purpose": "External hardware commentary video",
+    "group": "media",
+    "kind": "reference"
+  },
+  {
+    "name": "cyberkaida/reverse-engineering-assistant",
+    "url": "https://github.com/cyberkaida/reverse-engineering-assistant",
+    "purpose": "Ghidra-assisted reverse-engineering agent",
+    "group": "reverse-engineering",
+    "kind": "tool"
+  },
+  {
+    "name": "github.com/rea-tools/rea",
+    "url": "https://github.com/rea-tools/rea",
+    "purpose": "Unverified similarly named REA repository; use official source instead",
+    "group": "reverse-engineering",
+    "kind": "tool"
+  },
+  {
+    "name": "mrexodia/ida-pro-mcp",
+    "url": "https://github.com/mrexodia/ida-pro-mcp",
+    "purpose": "Connect IDA Pro disassembly tools through MCP",
+    "group": "reverse-engineering",
+    "kind": "tool"
+  },
+  {
+    "name": "symgraph/IDAssist",
+    "url": "https://github.com/symgraph/IDAssist",
+    "purpose": "Symbol-aware binary analysis assistant",
+    "group": "reverse-engineering",
+    "kind": "tool"
+  },
+  {
+    "name": "JusticeRage/Gepetto",
+    "url": "https://github.com/JusticeRage/Gepetto",
+    "purpose": "LLM-assisted binary analysis inside Ghidra",
+    "group": "reverse-engineering",
+    "kind": "tool"
+  },
+  {
+    "name": "albertan017/LLM4Decompile",
+    "url": "https://github.com/albertan017/LLM4Decompile",
+    "purpose": "Research model-assisted decompilation",
+    "group": "reverse-engineering",
+    "kind": "tool"
+  },
+  {
+    "name": "LLM4Binary (LLM4Binary)",
+    "url": "https://huggingface.co/LLM4Binary",
+    "purpose": "Research library for binary-focused LLMs",
+    "group": "reverse-engineering",
+    "kind": "tool"
+  },
+  {
+    "name": "LLM4Decompile Model",
+    "url": "https://huggingface.co/LLM4Binary/llm4decompile-6.7b-v1.5",
+    "purpose": "Experimental binary decompilation model weights",
+    "group": "reverse-engineering",
+    "kind": "tool"
+  },
+  {
+    "name": "UE4SS-RE/RE-UE4SS",
+    "url": "https://github.com/UE4SS-RE/RE-UE4SS",
+    "purpose": "Modify or inspect Unreal Engine applications",
+    "group": "games",
+    "kind": "tool"
+  },
+  {
+    "name": "SpecialKO/SpecialK",
+    "url": "https://github.com/SpecialKO/SpecialK",
+    "purpose": "Analyze and optimize PC game performance",
+    "group": "games",
+    "kind": "tool"
+  },
+  {
+    "name": "RPCSX/rpcsx",
+    "url": "https://github.com/RPCSX/rpcsx",
+    "purpose": "Research PlayStation 4 emulation",
+    "group": "games",
+    "kind": "tool"
+  },
+  {
+    "name": "GitHub No God Mode Topics",
+    "url": "https://github.com/topics/no-god-mode",
+    "purpose": "Dynamic GitHub topic search; not installable software",
+    "group": "discovery",
+    "kind": "reference"
+  },
+  {
+    "name": "Godmode Package Manifest",
+    "url": "https://github.com/NoobyGains/godmode/blob/master/package.json",
+    "purpose": "Example package manifest for a GodMode project",
+    "group": "discovery",
+    "kind": "reference"
+  },
+  {
+    "name": "GitHub Game God Mode Topics",
+    "url": "https://github.com/topics/game-god-mode",
+    "purpose": "Dynamic GitHub game topic search",
+    "group": "discovery",
+    "kind": "reference"
+  },
+  {
+    "name": "neuron-one/GODMODE",
+    "url": "https://github.com/neuron-one/GODMODE",
+    "purpose": "Experimental multi-agent orchestration project",
+    "group": "agents",
+    "kind": "tool"
+  },
+  {
+    "name": "Significant-Gravitas/AutoGPT",
+    "url": "https://github.com/significant-gravitas/autogpt",
+    "purpose": "Study autonomous multi-step agent workflows",
+    "group": "agents",
+    "kind": "tool"
+  },
+  {
+    "name": "Inori/Kyty",
+    "url": "https://github.com/Inori/Kyty",
+    "purpose": "Experimental PlayStation emulator reference",
+    "group": "games",
+    "kind": "tool"
+  },
+  {
+    "name": "Auto-GPT",
+    "url": "https://www.ultralytics.com/tr/glossary/auto-gpt",
+    "purpose": "AutoGPT project documentation and releases",
+    "group": "agents",
+    "kind": "tool"
+  },
+  {
+    "name": "postgresml/Auto-GPT",
+    "url": "https://github.com/postgresml/Auto-GPT",
+    "purpose": "Experimental AutoGPT integration with database tools",
+    "group": "agents",
+    "kind": "tool"
+  },
+  {
+    "name": "Repository search results",
+    "url": "https://github.com/search?q=auto+gpt&type=repositories",
+    "purpose": "Dynamic repository search page; not a project",
+    "group": "discovery",
+    "kind": "reference"
+  },
+  {
+    "name": "Significant-Gravitas/Auto-GPT-Plugins",
+    "url": "https://github.com/Significant-Gravitas/Auto-GPT-Plugins",
+    "purpose": "Historical AutoGPT plugin collection",
+    "group": "agents",
+    "kind": "tool"
+  },
+  {
+    "name": "AutoGPTQ/AutoGPTQ",
+    "url": "https://github.com/AutoGPTQ/AutoGPTQ",
+    "purpose": "Quantize LLMs for reduced memory use",
+    "group": "models",
+    "kind": "tool"
+  },
+  {
+    "name": "ElricLiu/AutoGPT-Next-Web",
+    "url": "https://github.com/ElricLiu/AutoGPT-Next-Web",
+    "purpose": "Experimental web interface for AutoGPT",
+    "group": "agents",
+    "kind": "tool"
+  },
+  {
+    "name": "Repository search results",
+    "url": "https://github.com/search?q=dark&type=repositories",
+    "purpose": "Dynamic repository search page; not a project",
+    "group": "discovery",
+    "kind": "reference"
+  },
+  {
+    "name": "AI-wan-uncensored-desktop/ai",
+    "url": "https://github.com/AI-wan-uncensored-desktop/ai",
+    "purpose": "Adult AI desktop app; unrelated to core skills",
+    "group": "security",
+    "kind": "review-only"
+  },
+  {
+    "name": "AI-wan-uncensored-desktop",
+    "url": "https://github.com/AI-wan-uncensored-desktop",
+    "purpose": "Developer profile for unrelated adult AI project",
+    "group": "security",
+    "kind": "reference"
+  },
+  {
+    "name": "Vitalliman/cloudflare-bypass-ai",
+    "url": "https://github.com/Vitalliman/cloudflare-bypass-ai",
+    "purpose": "Unverified Cloudflare evasion project; avoid automatic integration",
+    "group": "security",
+    "kind": "review-only"
+  },
+  {
+    "name": "Vitalliman (Vitan)",
+    "url": "https://github.com/Vitalliman",
+    "purpose": "Developer profile; not an installable tool",
+    "group": "discovery",
+    "kind": "reference"
+  },
+  {
+    "name": "GravelMythSignify/worm-gpt-alternative",
+    "url": "https://github.com/GravelMythSignify/worm-gpt-alternative",
+    "purpose": "Unverified unrestricted-model project; requires inspection",
+    "group": "security",
+    "kind": "review-only"
+  },
+  {
+    "name": "GravelMythSignify",
+    "url": "https://github.com/GravelMythSignify",
+    "purpose": "Developer profile; not an installable tool",
+    "group": "discovery",
+    "kind": "reference"
+  },
+  {
+    "name": "MIGHTY-JERRY/Nova-Unrestricted-Ai",
+    "url": "https://github.com/MIGHTY-JERRY/Nova-Unrestricted-Ai",
+    "purpose": "Unverified unrestricted AI model app",
+    "group": "security",
+    "kind": "review-only"
+  },
+  {
+    "name": "MIGHTY-JERRY (Jashan Singh)",
+    "url": "https://github.com/MIGHTY-JERRY",
+    "purpose": "Developer profile; not an installable tool",
+    "group": "discovery",
+    "kind": "reference"
+  },
+  {
+    "name": "matheofernandes27-lang/Dark-gpt-v1-free",
+    "url": "https://github.com/matheofernandes27-lang/Dark-gpt-v1-free",
+    "purpose": "Unverified modified GPT project",
+    "group": "security",
+    "kind": "review-only"
+  },
+  {
+    "name": "matheofernandes27-lang (M4TH4CK3R)",
+    "url": "https://github.com/matheofernandes27-lang",
+    "purpose": "Developer profile; not an installable tool",
+    "group": "discovery",
+    "kind": "reference"
+  },
+  {
+    "name": "liannainefficient679/GirlChat-AdultCompanion-2026",
+    "url": "https://github.com/liannainefficient679/GirlChat-AdultCompanion-2026",
+    "purpose": "Adult chat project; outside coding-agent scope",
+    "group": "security",
+    "kind": "review-only"
+  },
+  {
+    "name": "liannainefficient679",
+    "url": "https://github.com/liannainefficient679",
+    "purpose": "Developer profile; not an installable tool",
+    "group": "discovery",
+    "kind": "reference"
+  },
+  {
+    "name": "cineglobe/GeminiDock",
+    "url": "https://github.com/cineglobe/GeminiDock",
+    "purpose": "Unverified experimental AI desktop application",
+    "group": "agents",
+    "kind": "tool"
+  },
+  {
+    "name": "cineglobe",
+    "url": "https://github.com/cineglobe",
+    "purpose": "Developer profile; not an installable tool",
+    "group": "discovery",
+    "kind": "reference"
+  },
+  {
+    "name": "GitHub Topic Search",
+    "url": "https://github.com/topics/illegal",
+    "purpose": "Dynamic GitHub topic page; not an executable tool",
+    "group": "discovery",
+    "kind": "reference"
+  },
+  {
+    "name": "0xk1h0/ChatGPT_DAN",
+    "url": "https://github.com/0xk1h0/chatgpt_dan",
+    "purpose": "Archive of historical LLM jailbreak prompts",
+    "group": "security",
+    "kind": "review-only"
+  },
+  {
+    "name": "ImGoodBai/goodable",
+    "url": "https://github.com/ImGoodBai/goodable",
+    "purpose": "Desktop automation agent reference",
+    "group": "agents",
+    "kind": "tool"
+  },
+  {
+    "name": "Cr4sh/SmmBackdoor",
+    "url": "https://github.com/Cr4sh/SmmBackdoor",
+    "purpose": "Firmware backdoor research; unrelated and high risk",
+    "group": "security",
+    "kind": "review-only"
+  },
+  {
+    "name": "nicklockwood/BaseModel",
+    "url": "https://github.com/nicklockwood/BaseModel",
+    "purpose": "Swift object-model programming library",
+    "group": "discovery",
+    "kind": "reference"
+  },
+  {
+    "name": "rustsbi/rustsbi",
+    "url": "https://github.com/rustsbi/rustsbi",
+    "purpose": "Rust RISC-V system firmware interface",
+    "group": "coding",
+    "kind": "tool"
+  },
+  {
+    "name": "sgsellan/fracture-modes",
+    "url": "https://github.com/sgsellan/fracture-modes",
+    "purpose": "Experimental game physics modes",
+    "group": "games",
+    "kind": "tool"
+  },
+  {
+    "name": "GodMode Project",
+    "url": "https://godmod3.ai",
+    "purpose": "External project landing page; verify its scope",
+    "group": "discovery",
+    "kind": "reference"
+  },
+  {
+    "name": "Whistle",
+    "url": "https://cactuscompute.com/blog/whistle",
+    "purpose": "Whistle speech and tool-calling model reference",
+    "group": "media",
+    "kind": "tool"
+  },
+  {
+    "name": "SeloGPT (SeloGPT)",
+    "url": "https://github.com/SeloGPT",
+    "purpose": "Experimental LLM project profile",
+    "group": "models",
+    "kind": "reference"
+  },
+  {
+    "name": "AIwolfie/jailbreak-archive",
+    "url": "https://github.com/AIwolfie/jailbreak-archive/",
+    "purpose": "Historical prompt-injection research archive",
+    "group": "security",
+    "kind": "review-only"
+  },
+  {
+    "name": "NoobyGains/godmode",
+    "url": "https://github.com/noobygains/godmode",
+    "purpose": "Agent workflow and task-planning examples",
+    "group": "agents",
+    "kind": "tool"
+  },
+  {
+    "name": "SeloGPT/selogpt-prompt-labs",
+    "url": "https://github.com/SeloGPT/selogpt-prompt-labs",
+    "purpose": "LLM prompt research laboratory",
+    "group": "discovery",
+    "kind": "reference"
+  },
+  {
+    "name": "verazuo/jailbreak_llms",
+    "url": "https://github.com/verazuo/jailbreak_llms",
+    "purpose": "Dataset for evaluating LLM jailbreak resilience",
+    "group": "security",
+    "kind": "review-only"
+  },
+  {
+    "name": "togg53192-cmd/jailbreaks",
+    "url": "https://github.com/togg53192-cmd/jailbreaks",
+    "purpose": "Historical security research archive",
+    "group": "security",
+    "kind": "reference"
+  },
+  {
+    "name": "iSECPartners/jailbreak",
+    "url": "https://github.com/iSECPartners/jailbreak",
+    "purpose": "Historical security research archive",
+    "group": "security",
+    "kind": "review-only"
+  },
+  {
+    "name": "patrickrchao/JailbreakingLLMs",
+    "url": "https://github.com/patrickrchao/JailbreakingLLMs",
+    "purpose": "Research attacks and LLM resilience measurement",
+    "group": "security",
+    "kind": "tool"
+  },
+  {
+    "name": "Acmesec/PromptJailbreakManual",
+    "url": "https://github.com/Acmesec/PromptJailbreakManual",
+    "purpose": "Reference manual of prompt-based attack patterns",
+    "group": "security",
+    "kind": "review-only"
+  },
+  {
+    "name": "iOS17/Jailbreak",
+    "url": "https://github.com/iOS17/Jailbreak",
+    "purpose": "Historical iOS jailbreak research project",
+    "group": "security",
+    "kind": "review-only"
+  },
+  {
+    "name": "jjolano/shadow",
+    "url": "https://github.com/jjolano/shadow",
+    "purpose": "Research iOS jailbreak-detection bypass methods",
+    "group": "security",
+    "kind": "review-only"
+  },
+  {
+    "name": "AloneMonkey/frida-ios-dump",
+    "url": "https://github.com/AloneMonkey/frida-ios-dump",
+    "purpose": "Extract decrypted iOS applications for authorized analysis",
+    "group": "security",
+    "kind": "review-only"
+  },
+  {
+    "name": "p-e-w/heretic",
+    "url": "https://github.com/p-e-w/heretic",
+    "purpose": "Study modified model behavior and weights",
+    "group": "security",
+    "kind": "tool"
+  },
+  {
+    "name": "Giskard Reference",
+    "url": "https://github.com/Giskard-AI/giskard",
+    "purpose": "Test machine-learning and RAG application failures",
+    "group": "security",
+    "kind": "reference"
+  },
+  {
+    "name": "NVIDIA Garak",
+    "url": "https://github.com/NVIDIA/garak",
+    "purpose": "Scan LLM systems for security weaknesses",
+    "group": "security",
+    "kind": "tool"
+  },
+  {
+    "name": "ricyoung/abliteration-comparison",
+    "url": "https://github.com/ricyoung/abliteration-comparison",
+    "purpose": "Compare changes from model representation editing",
+    "group": "security",
+    "kind": "tool"
+  },
+  {
+    "name": "Promptfoo",
+    "url": "https://github.com/promptfoo/promptfoo",
+    "purpose": "Evaluate LLM behavior through repeatable test cases",
+    "group": "security",
+    "kind": "tool"
+  },
+  {
+    "name": "steering-vectors/steering-vectors",
+    "url": "https://github.com/steering-vectors/steering-vectors",
+    "purpose": "Research activation-based model steering vectors",
+    "group": "security",
+    "kind": "tool"
+  },
+  {
+    "name": "Representation Research Link",
+    "url": "https://github.com/vgel/repeng",
+    "purpose": "Representation-editing research reference; link may be unavailable",
+    "group": "security",
+    "kind": "reference"
+  },
+  {
+    "name": "spkgyk/abliteration",
+    "url": "https://github.com/spkgyk/abliteration",
+    "purpose": "Research model representation editing",
+    "group": "security",
+    "kind": "tool"
+  },
+  {
+    "name": "NousResearch/llm-abliteration",
+    "url": "https://github.com/NousResearch/llm-abliteration",
+    "purpose": "Study LLM representation editing experiments",
+    "group": "security",
+    "kind": "tool"
+  },
+  {
+    "name": "andyzoujm/representation-engineering",
+    "url": "https://github.com/andyzoujm/representation-engineering",
+    "purpose": "Research representation-engineering techniques",
+    "group": "security",
+    "kind": "tool"
+  },
+  {
+    "name": "Unavailable Research Link",
+    "url": "https://github.com/andi611/refusal_direction",
+    "purpose": "Project reference; link may be unavailable",
+    "group": "security",
+    "kind": "reference"
+  },
+  {
+    "name": "Sumandora/remove-refusals-with-transformers",
+    "url": "https://github.com/Sumandora/remove-refusals-with-transformers",
+    "purpose": "Experimental model behavior editing script",
+    "group": "security",
+    "kind": "review-only"
+  },
+  {
+    "name": "FailSpy/abliterator",
+    "url": "https://github.com/FailSpy/abliterator",
+    "purpose": "Experimental model representation editing tool",
+    "group": "security",
+    "kind": "review-only"
+  },
+  {
+    "name": "elder-plinius (pliny)",
+    "url": "https://github.com/elder-plinius",
+    "purpose": "Researcher profile; not executable tooling",
+    "group": "security",
+    "kind": "reference"
+  },
+  {
+    "name": "rig",
+    "url": "https://github.com/0xPlaygrounds/rig",
+    "purpose": "Rust framework for building LLM agents",
+    "group": "coding",
+    "kind": "tool"
+  },
+  {
+    "name": "mistral.rs",
+    "url": "https://github.com/EricLBuehler/mistral.rs",
+    "purpose": "Run machine-learning models with Rust",
+    "group": "models",
+    "kind": "tool"
+  },
+  {
+    "name": "candle",
+    "url": "https://github.com/huggingface/candle",
+    "purpose": "Rust tensors and neural-network inference",
+    "group": "models",
+    "kind": "tool"
+  },
+  {
+    "name": "ollama",
+    "url": "https://github.com/ollama/ollama",
+    "purpose": "Run and serve local models through Ollama",
+    "group": "models",
+    "kind": "tool"
+  },
+  {
+    "name": "tauri",
+    "url": "https://github.com/tauri-apps/tauri",
+    "purpose": "Build desktop apps using a Rust backend",
+    "group": "design",
+    "kind": "tool"
+  },
+  {
+    "name": "egui",
+    "url": "https://github.com/emilk/egui",
+    "purpose": "Build immediate-mode graphical Rust interfaces",
+    "group": "design",
+    "kind": "tool"
+  },
+  {
+    "name": "Giskard AI",
+    "url": "https://github.com/GiskardAI/GiskardAI",
+    "purpose": "Assess model quality and application reliability",
+    "group": "security",
+    "kind": "tool"
+  },
+  {
+    "name": "Dolphin 3 8B",
+    "url": "https://ollama.com/library/dolphin3",
+    "purpose": "Locally runnable Dolphin language model variant",
+    "group": "models",
+    "kind": "tool"
+  },
+  {
+    "name": "Dolphin Mistral 7B",
+    "url": "https://ollama.com/library/dolphin-mistral",
+    "purpose": "Locally runnable Dolphin Mistral model variant",
+    "group": "models",
+    "kind": "tool"
+  },
+  {
+    "name": "Dolphin Llama 3",
+    "url": "https://ollama.com/library/dolphin-llama3",
+    "purpose": "Locally runnable Dolphin Llama model variant",
+    "group": "models",
+    "kind": "tool"
+  },
+  {
+    "name": "Hermes 3",
+    "url": "https://ollama.com/library/hermes3",
+    "purpose": "Tool-using Hermes language model",
+    "group": "models",
+    "kind": "tool"
+  },
+  {
+    "name": "llama.cpp",
+    "url": "https://github.com/ggml-org/llama.cpp",
+    "purpose": "Run local models and compatible inference servers",
+    "group": "models",
+    "kind": "tool"
+  },
+  {
+    "name": "Cactus Compute Needle",
+    "url": "https://github.com/cactus-compute/needle",
+    "purpose": "On-device assistant and speech runtime",
+    "group": "media",
+    "kind": "tool"
+  },
+  {
+    "name": "Whistle Speech Model",
+    "url": "https://huggingface.co/Cactus-Compute/whistle",
+    "purpose": "Whistle downloadable speech-recognition model",
+    "group": "media",
+    "kind": "tool"
+  },
+  {
+    "name": "Needle 3 Model and Runtime",
+    "url": "https://huggingface.co/Cactus-Compute/needle3",
+    "purpose": "Download Needle speech and tool models",
+    "group": "media",
+    "kind": "tool"
+  },
+  {
+    "name": "Impeccable",
+    "url": "https://github.com/pbakaus/impeccable",
+    "purpose": "Design auditing and UI quality skill",
+    "group": "design",
+    "kind": "tool"
+  },
+  {
+    "name": "AISlopMeter",
+    "url": "https://github.com/omergocmen/aislopmeter",
+    "purpose": "Detect generic AI-generated interface patterns",
+    "group": "design",
+    "kind": "tool"
+  },
+  {
+    "name": "Anthropic frontend-design Skill",
+    "url": "https://github.com/anthropics/skills/tree/main/skills/frontend-design",
+    "purpose": "Frontend design skill and examples",
+    "group": "design",
+    "kind": "tool"
+  },
+  {
+    "name": "Awesome DESIGN.md",
+    "url": "https://github.com/VoltAgent/awesome-design-md",
+    "purpose": "Design system and project guideline examples",
+    "group": "design",
+    "kind": "tool"
+  },
+  {
+    "name": "npm publisher page",
+    "url": "https://www.npmjs.com/~omerrgocmen",
+    "purpose": "Publisher profile for AISlopMeter",
+    "group": "discovery",
+    "kind": "reference"
+  },
+  {
+    "name": "AISlopMeter npm",
+    "url": "https://www.npmjs.com/package/aislopmeter",
+    "purpose": "Installable AISlopMeter UI analysis CLI",
+    "group": "design",
+    "kind": "tool"
+  },
+  {
+    "name": "Impeccable official docs",
+    "url": "https://impeccable.style",
+    "purpose": "Official Impeccable documentation and setup",
+    "group": "design",
+    "kind": "tool"
+  },
+  {
+    "name": "OpenClaw",
+    "url": "https://github.com/openclaw/openclaw",
+    "purpose": "Self-hosted multi-channel assistant gateway",
+    "group": "agents",
+    "kind": "tool"
+  },
+  {
+    "name": "NousResearch Hermes Agent",
+    "url": "https://github.com/NousResearch/hermes-agent",
+    "purpose": "Persistent assistant with memory and scheduled jobs",
+    "group": "agents",
+    "kind": "tool"
+  },
+  {
+    "name": "OpenCode",
+    "url": "https://github.com/anomalyco/opencode",
+    "purpose": "Open-source command-line coding agent",
+    "group": "agents",
+    "kind": "tool"
+  },
+  {
+    "name": "CC Switch",
+    "url": "https://github.com/farion1231/cc-switch",
+    "purpose": "Switch between coding-agent provider profiles",
+    "group": "agents",
+    "kind": "tool"
+  },
+  {
+    "name": "Anthropic Skills",
+    "url": "https://github.com/anthropics/skills",
+    "purpose": "Official Agent Skills examples and specification patterns",
+    "group": "agents",
+    "kind": "tool"
+  },
+  {
+    "name": "Matt Pocock Skills",
+    "url": "https://github.com/mattpocock/skills",
+    "purpose": "Reusable developer skill examples",
+    "group": "agents",
+    "kind": "tool"
+  },
+  {
+    "name": "Karpathy Skills",
+    "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+    "purpose": "Four coding principles: clarity, simplicity, minimal edits, testing",
+    "group": "coding",
+    "kind": "tool"
+  },
+  {
+    "name": "Agency Agents",
+    "url": "https://github.com/msitarzewski/agency-agents",
+    "purpose": "Catalog of role-based specialist agent definitions",
+    "group": "agents",
+    "kind": "tool"
+  },
+  {
+    "name": "Claw Code",
+    "url": "https://github.com/ultraworkers/claw-code",
+    "purpose": "Experimental agent showcase; not a production engine",
+    "group": "agents",
+    "kind": "tool"
+  },
+  {
+    "name": "OpenClaw v2026.10.5 release",
+    "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.10.5",
+    "purpose": "Historical OpenClaw release reference, not necessarily latest",
+    "group": "agents",
+    "kind": "reference"
+  },
+  {
+    "name": "McSema",
+    "url": "https://github.com/lifting-bits/mcsema",
+    "purpose": "Lift native machine code into LLVM bitcode; not EXE conversion",
+    "group": "reverse-engineering",
+    "kind": "tool"
+  },
+  {
+    "name": "Remill",
+    "url": "https://github.com/lifting-bits/remill",
+    "purpose": "Lift machine instructions into LLVM IR",
+    "group": "reverse-engineering",
+    "kind": "tool"
+  },
+  {
+    "name": "rev.ng",
+    "url": "https://github.com/revng/revng",
+    "purpose": "Analyze binaries and recompile some supported formats",
+    "group": "reverse-engineering",
+    "kind": "tool"
+  },
+  {
+    "name": "rev.ng artifacts",
+    "url": "https://docs.rev.ng/references/artifacts/",
+    "purpose": "Documentation for rev.ng generated analysis artifacts",
+    "group": "reverse-engineering",
+    "kind": "tool"
+  },
+  {
+    "name": "86x64",
+    "url": "https://github.com/nmosier/86x64",
+    "purpose": "Experimental macOS i386 to x86-64 application translation",
+    "group": "reverse-engineering",
+    "kind": "tool"
+  },
+  {
+    "name": "objconv",
+    "url": "https://github.com/gitGNU/objconv",
+    "purpose": "Convert object files and libraries, not complete EXEs",
+    "group": "reverse-engineering",
+    "kind": "tool"
+  },
+  {
+    "name": "Reverse Engineering Tutorials",
+    "url": "https://github.com/mytechnotalent/Reverse-Engineering",
+    "purpose": "Tutorials for assembly and reverse engineering",
+    "group": "reverse-engineering",
+    "kind": "reference"
+  },
+  {
+    "name": "Aseprite binary builds",
+    "url": "https://github.com/mmozeiko/aseprite-bin",
+    "purpose": "Prebuilt Aseprite application binaries, not converters",
+    "group": "discovery",
+    "kind": "reference"
+  },
+  {
+    "name": "WinObjEx64",
+    "url": "https://github.com/hfiref0x/WinObjEx64",
+    "purpose": "Inspect Windows kernel objects and system state",
+    "group": "reverse-engineering",
+    "kind": "tool"
+  },
+  {
+    "name": "BAT to EXE",
+    "url": "https://github.com/l-urk/Bat-To-Exe-Converter-64-Bit",
+    "purpose": "Package batch scripts as EXE files; not native architecture conversion",
+    "group": "discovery",
+    "kind": "tool"
+  },
+  {
+    "name": "V4L2 to NDI",
+    "url": "https://github.com/lplassman/V4L2-to-NDI",
+    "purpose": "Bridge Linux camera video to NDI",
+    "group": "media",
+    "kind": "tool"
+  },
+  {
+    "name": "NDI to JACK",
+    "url": "https://github.com/lplassman/NDI-to-JACK",
+    "purpose": "Route NDI audio to JACK",
+    "group": "media",
+    "kind": "tool"
+  },
+  {
+    "name": "KSP x64 converter",
+    "url": "https://github.com/godarklight/KSPx64Converter",
+    "purpose": "Game-specific compatibility workaround for Kerbal Space Program",
+    "group": "games",
+    "kind": "reference"
+  },
+  {
+    "name": "writerdeckOS",
+    "url": "https://github.com/tinkersec/writerdeckOS",
+    "purpose": "Convert a laptop into a distraction-free writing system",
+    "group": "discovery",
+    "kind": "reference"
+  },
+  {
+    "name": "LTSConvert",
+    "url": "https://github.com/Bladez1992/LTSConvert",
+    "purpose": "Change supported Windows installation editions; not binary conversion",
+    "group": "discovery",
+    "kind": "reference"
+  },
+  {
+    "name": "Steam ID Converter",
+    "url": "https://github.com/ElektroStudios/Steam-ID-Converter",
+    "purpose": "Convert Steam account ID formats, not program architecture",
+    "group": "discovery",
+    "kind": "reference"
+  },
+  {
+    "name": "Base64 Guru",
+    "url": "https://base64.guru/converter",
+    "purpose": "Encode or decode Base64 text and files",
+    "group": "discovery",
+    "kind": "reference"
+  },
+  {
+    "name": "Base64 Encode Decode",
+    "url": "https://www.base64encode.org/",
+    "purpose": "Web tool for Base64 encoding and decoding",
+    "group": "discovery",
+    "kind": "reference"
+  },
+  {
+    "name": "Google 64-bit Search",
+    "url": "https://www.google.com/search?q=64%20bit%20converter",
+    "purpose": "Google search results about 64-bit conversion; not an app",
+    "group": "discovery",
+    "kind": "reference"
+  },
+  {
+    "name": "Google 32-to-64 Search",
+    "url": "https://www.google.com/search?q=eski%2032bit%20programi%2064bite%20ceviren%20github",
+    "purpose": "Google results about 32-bit application migration",
+    "group": "discovery",
+    "kind": "reference"
+  },
+  {
+    "name": "Github 64bit search",
+    "url": "https://github.com/search?q=64%20bit&type=repositories",
+    "purpose": "GitHub search results for 64-bit projects",
+    "group": "discovery",
+    "kind": "reference"
+  },
+  {
+    "name": "Github converter search",
+    "url": "https://github.com/search?q=64%20bit%20converter&type=repositories",
+    "purpose": "GitHub search results for converter projects",
+    "group": "discovery",
+    "kind": "reference"
+  },
+  {
+    "name": "Github convert search",
+    "url": "https://github.com/search?q=64%20bit%20convert&type=repositories",
+    "purpose": "GitHub search results for conversion projects",
+    "group": "discovery",
+    "kind": "reference"
+  },
+  {
+    "name": "Microsoft WOW64",
+    "url": "https://learn.microsoft.com/en-us/windows/win32/winprog64/running-32-bit-applications",
+    "purpose": "Microsoft documentation for running 32-bit apps on 64-bit Windows",
+    "group": "reverse-engineering",
+    "kind": "tool"
+  },
+  {
+    "name": "Microsoft IPC 32/64",
+    "url": "https://learn.microsoft.com/en-us/windows/win32/winprog64/process-interoperability",
+    "purpose": "Microsoft documentation for cross-bitness IPC and COM",
+    "group": "reverse-engineering",
+    "kind": "tool"
+  },
+  {
+    "name": "MCP Specification",
+    "url": "https://modelcontextprotocol.io/",
+    "purpose": "Official MCP client-server protocol and transports",
+    "group": "mcp",
+    "kind": "tool"
+  },
+  {
+    "name": "RMCP Rust SDK",
+    "url": "https://github.com/modelcontextprotocol/rust-sdk",
+    "purpose": "Official Rust SDK for implementing MCP clients and servers",
+    "group": "mcp",
+    "kind": "tool"
+  },
+  {
+    "name": "MCP Reference Servers",
+    "url": "https://github.com/modelcontextprotocol/servers",
+    "purpose": "Official collection of MCP example servers",
+    "group": "mcp",
+    "kind": "tool"
+  },
+  {
+    "name": "SkillsDirectory",
+    "url": "https://www.skillsdirectory.com/",
+    "purpose": "Find agent skills and review their metadata",
+    "group": "discovery",
+    "kind": "tool"
+  },
+  {
+    "name": "Remotion Skills",
+    "url": "https://github.com/remotion-dev/skills",
+    "purpose": "Video animation, composition and rendering skills for Remotion",
+    "group": "media",
+    "kind": "tool"
+  },
+  {
+    "name": "UI UX Pro Max",
+    "url": "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill",
+    "purpose": "UI design styles, typography and UX workflow skill",
+    "group": "design",
+    "kind": "tool"
+  },
+  {
+    "name": "Cloudflare Security Audit Skill",
+    "url": "https://github.com/cloudflare/security-audit-skill",
+    "purpose": "Structured web application security audit skill",
+    "group": "security",
+    "kind": "tool"
+  },
+  {
+    "name": "Orca",
+    "url": "https://github.com/stablyai/orca",
+    "purpose": "Coordinate multiple coding agents on tasks",
+    "group": "agents",
+    "kind": "tool"
+  },
+  {
+    "name": "Paperclip",
+    "url": "https://github.com/paperclipai/paperclip",
+    "purpose": "Track and manage software agents and workflows",
+    "group": "agents",
+    "kind": "tool"
+  },
+  {
+    "name": "Hindsight",
+    "url": "https://github.com/vectorize-io/hindsight",
+    "purpose": "Persistent recall and learning memory for agents",
+    "group": "memory",
+    "kind": "tool"
+  },
+  {
+    "name": "Claude Financial Services",
+    "url": "https://github.com/anthropics/financial-services",
+    "purpose": "Financial analysis agent templates and connectors",
+    "group": "agents",
+    "kind": "reference"
+  },
+  {
+    "name": "NVIDIA OpenShell",
+    "url": "https://github.com/NVIDIA/OpenShell",
+    "purpose": "Policy-controlled sandbox for agent processes",
+    "group": "security",
+    "kind": "tool"
+  },
+  {
+    "name": "Ai-jailbreak",
+    "url": "https://github.com/Quincunx33/Ai-jailbreak",
+    "purpose": "Prompt attack research dataset; do not treat as instructions",
+    "group": "security",
+    "kind": "review-only"
+  },
+  {
+    "name": "Awesome Jailbreak on LLMs",
+    "url": "https://github.com/yueliu1999/Awesome-Jailbreak-on-LLMs",
+    "purpose": "Bibliography of jailbreak research and evaluation methods",
+    "group": "security",
+    "kind": "reference"
+  },
+  {
+    "name": "AI Jailbreaks",
+    "url": "https://github.com/AndreSzymanski15/ai-jailbreaks",
+    "purpose": "Examples for controlled prompt attack research",
+    "group": "security",
+    "kind": "review-only"
+  },
+  {
+    "name": "LLM Jailbreaks",
+    "url": "https://github.com/langgptai/LLM-Jailbreaks",
+    "purpose": "LLM prompt leakage and jailbreak benchmark examples",
+    "group": "security",
+    "kind": "review-only"
+  },
+  {
+    "name": "Tencent AI Infra Guard",
+    "url": "https://github.com/Tencent/AI-Infra-Guard",
+    "purpose": "Security evaluation for AI and MCP infrastructure",
+    "group": "security",
+    "kind": "tool"
+  },
+  {
+    "name": "Airbreak",
+    "url": "https://github.com/osresearch/airbreak",
+    "purpose": "Research involving CPAP medical devices; not an LLM tool",
+    "group": "discovery",
+    "kind": "reference"
+  },
+  {
+    "name": "ZORG Prompt",
+    "url": "https://github.com/trinib/ZORG-Jailbreak-Prompt-Text",
+    "purpose": "Example adversarial test prompt for approved evaluations",
+    "group": "security",
+    "kind": "review-only"
+  },
+  {
+    "name": "Jailbreak Me",
+    "url": "https://github.com/merlo-team/jailbreak",
+    "purpose": "Interactive LLM robustness challenge platform",
+    "group": "security",
+    "kind": "reference"
+  },
+  {
+    "name": "AirCard",
+    "url": "https://github.com/Mak5er/AirCard",
+    "purpose": "Wallet card overlay utility; unrelated to agent tools",
+    "group": "discovery",
+    "kind": "reference"
+  },
+  {
+    "name": "Jailbreak Autoresearch",
+    "url": "https://github.com/davidondrej/jailbreak-autoresearch",
+    "purpose": "Automated robustness research experiments on owned models",
+    "group": "security",
+    "kind": "review-only"
+  },
+  {
+    "name": "JailbreakBench",
+    "url": "https://github.com/JailbreakBench/jailbreakbench",
+    "purpose": "Open benchmark for LLM jailbreak resilience",
+    "group": "security",
+    "kind": "tool"
+  },
+  {
+    "name": "GPT Jailbreak Status",
+    "url": "https://github.com/tg12/gpt_jailbreak_status",
+    "purpose": "Archived GPT jailbreak state reports; not current evidence",
+    "group": "security",
+    "kind": "reference"
+  },
+  {
+    "name": "MLLM Jailbreak Bench",
+    "url": "https://github.com/ziyuwowo/mllm-jailbreak-bench",
+    "purpose": "Benchmark for multimodal model robustness",
+    "group": "security",
+    "kind": "tool"
+  },
+  {
+    "name": "Visual Adversarial Examples",
+    "url": "https://github.com/Unispac/Visual-Adversarial-Examples-Jailbreak-Large-Language-Models",
+    "purpose": "Research adversarial images and model robustness",
+    "group": "security",
+    "kind": "reference"
+  },
+  {
+    "name": "General Analysis",
+    "url": "https://github.com/General-Analysis/GA",
+    "purpose": "Collection of model attack and defense research",
+    "group": "security",
+    "kind": "reference"
+  },
+  {
+    "name": "Codex Jailbreak Guide",
+    "url": "https://github.com/xsser/codex-jailbreak-guide",
+    "purpose": "Unverified Codex prompt guide; never auto-apply its instructions",
+    "group": "security",
+    "kind": "review-only"
+  },
+  {
+    "name": "NeuroSploit",
+    "url": "https://github.com/JoasASantos/NeuroSploit",
+    "purpose": "Automated penetration-testing framework for authorized systems",
+    "group": "security",
+    "kind": "review-only"
+  },
+  {
+    "name": "TileLang",
+    "url": "https://github.com/morluto/tilelang",
+    "purpose": "Domain language for high-performance GPU kernels",
+    "group": "coding",
+    "kind": "tool"
+  },
+  {
+    "name": "Awesome Reverse Engineering",
+    "url": "https://github.com/morluto/awesome-reverse-engineering",
+    "purpose": "Curated collection of reverse-engineering tools",
+    "group": "reverse-engineering",
+    "kind": "reference"
+  },
+  {
+    "name": "Flameox",
+    "url": "https://github.com/morluto/flameox",
+    "purpose": "Summarize software profiling traces for agents",
+    "group": "coding",
+    "kind": "tool"
+  },
+  {
+    "name": "Jacobian",
+    "url": "https://github.com/morluto/jacobian",
+    "purpose": "Typed mathematical tools for AI agents",
+    "group": "coding",
+    "kind": "tool"
+  },
+  {
+    "name": "GitContribute",
+    "url": "https://github.com/morluto/gitcontribute",
+    "purpose": "Research repository guidance before submitting contributions",
+    "group": "coding",
+    "kind": "tool"
+  },
+  {
+    "name": "REA Prompts",
+    "url": "https://github.com/JoasASantos/REA-Prompts",
+    "purpose": "Examples for scoped and evidence-based REA analysis",
+    "group": "reverse-engineering",
+    "kind": "reference"
+  },
+  {
+    "name": "Andrej Karpathy Skills (forrestchang)",
+    "url": "https://github.com/forrestchang/andrej-karpathy-skills",
+    "purpose": "Karpathy-inspired practical coding-agent guidelines",
+    "group": "coding",
+    "kind": "reference"
+  },
+  {
+    "name": "Caveman",
+    "url": "https://github.com/JuliusBrussee/caveman",
+    "purpose": "Reduce unnecessary agent output and context load",
+    "group": "agents",
+    "kind": "tool"
+  },
+  {
+    "name": "GhidraDec",
+    "url": "https://github.com/GregoryMorse/GhidraDec",
+    "purpose": "Use Ghidra decompiler inside IDA Pro",
+    "group": "reverse-engineering",
+    "kind": "tool"
+  },
+  {
+    "name": "GhidraIDA",
+    "url": "https://github.com/NyaMisty/GhidraIDA",
+    "purpose": "Configure Ghidra with IDA-like interaction patterns",
+    "group": "reverse-engineering",
+    "kind": "tool"
+  },
+  {
+    "name": "Bevy Engine",
+    "url": "https://github.com/bevyengine/bevy",
+    "purpose": "Official Bevy Rust ECS game framework",
+    "group": "games",
+    "kind": "tool"
+  },
+  {
+    "name": "9Router",
+    "url": "https://github.com/decolua/9router",
+    "purpose": "Route requests between different AI model providers",
+    "group": "agents",
+    "kind": "tool"
+  },
+  {
+    "name": "Supabase Plugin",
+    "url": "https://github.com/supabase-community/supabase-plugin",
+    "purpose": "Supabase database workflows for coding agents",
+    "group": "agents",
+    "kind": "tool"
+  },
+  {
+    "name": "Claude Mem",
+    "url": "https://github.com/thedotmack/claude-mem",
+    "purpose": "Persist project context for Claude Code sessions",
+    "group": "memory",
+    "kind": "tool"
+  },
+  {
+    "name": "Context7",
+    "url": "https://github.com/upstash/context7",
+    "purpose": "Fetch version-specific programming documentation",
+    "group": "coding",
+    "kind": "tool"
+  },
+  {
+    "name": "Headroom",
+    "url": "https://github.com/headroomlabs-ai/headroom",
+    "purpose": "Compress agent context while monitoring information loss",
+    "group": "memory",
+    "kind": "tool"
+  },
+  {
+    "name": "Anthropic Skill Creator",
+    "url": "https://github.com/anthropics/skills/tree/main/skills/skill-creator",
+    "purpose": "Create and check reusable Agent Skills files",
+    "group": "agents",
+    "kind": "tool"
+  },
+  {
+    "name": "Bevy Examples",
+    "url": "https://github.com/bevyengine/bevy/tree/main/examples",
+    "purpose": "Official version-specific Bevy example programs",
+    "group": "games",
+    "kind": "tool"
+  },
+  {
+    "name": "Bevy Website",
+    "url": "https://bevy.org/",
+    "purpose": "Official Bevy framework website",
+    "group": "games",
+    "kind": "tool"
+  },
+  {
+    "name": "Bevy Quick Start",
+    "url": "https://bevy.org/learn/quick-start/getting-started/",
+    "purpose": "Official Bevy beginner setup guide",
+    "group": "games",
+    "kind": "tool"
+  },
+  {
+    "name": "Bevy ECS",
+    "url": "https://bevy.org/learn/quick-start/getting-started/ecs/",
+    "purpose": "Official Bevy entity-component-system guide",
+    "group": "games",
+    "kind": "tool"
+  },
+  {
+    "name": "Bevy Plugins",
+    "url": "https://bevy.org/learn/quick-start/getting-started/plugins/",
+    "purpose": "Official Bevy plugin system guide",
+    "group": "games",
+    "kind": "tool"
+  },
+  {
+    "name": "Claude Obsidian Memory Guide",
+    "url": "https://www.isanurdogdu.com/kaynaklar/claude-obsidian-ikinci-beyin",
+    "purpose": "Guide to organizing Claude project memory with Obsidian",
+    "group": "memory",
+    "kind": "tool"
+  },
+  {
+    "name": "Token Optimization Guide",
+    "url": "https://www.isanurdogdu.com/kaynaklar/limit-problemi-icin-2-arac",
+    "purpose": "Tutorial on token optimization and model routing",
+    "group": "agents",
+    "kind": "reference"
+  },
+  {
+    "name": "Claude Code Plugin List",
+    "url": "https://www.isanurdogdu.com/kaynaklar/claude-code-eklenti-listesi",
+    "purpose": "Overview of optional Claude Code plugins",
+    "group": "agents",
+    "kind": "reference"
+  },
+  {
+    "name": "Karpathy LLM Wiki Gist",
+    "url": "https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f",
+    "purpose": "Guide to organizing a file-based LLM wiki",
+    "group": "memory",
+    "kind": "reference"
+  },
+  {
+    "name": "Obsidian",
+    "url": "https://obsidian.md/",
+    "purpose": "Explore and link local Markdown notes",
+    "group": "memory",
+    "kind": "tool"
+  },
+  {
+    "name": "GitHub LLM Jailbreak Search",
+    "url": "https://github.com/search?q=models+jailbreak&type=repositories",
+    "purpose": "GitHub search results for LLM jailbreak projects",
+    "group": "security",
+    "kind": "reference"
+  },
+  {
+    "name": "REA Showcase",
+    "url": "https://rea.tools/showcase/",
+    "purpose": "REA official usage examples and case studies",
+    "group": "reverse-engineering",
+    "kind": "tool"
+  },
+  {
+    "name": "REA Guides",
+    "url": "https://rea.tools/guides/",
+    "purpose": "REA official setup and provider documentation",
+    "group": "reverse-engineering",
+    "kind": "tool"
+  },
+  {
+    "name": "Made with REA Prompts",
+    "url": "https://madewithrea.com/prompts",
+    "purpose": "Third-party example prompts for REA analysis",
+    "group": "reverse-engineering",
+    "kind": "reference"
+  },
+  {
+    "name": "REA Social Post",
+    "url": "https://x.com/0xCodila/status/2109623431763292649",
+    "purpose": "REA social announcement; not technical documentation",
+    "group": "discovery",
+    "kind": "reference"
+  },
+  {
+    "name": "Claudeman",
+    "url": "https://github.com/scottrigby/claudeman",
+    "purpose": "Run Claude Code in Podman or Docker containers with profiles, hooks, domain controls, and reusable dependency caches",
+    "group": "agents",
+    "kind": "tool"
+  },
+  {
+    "name": "Superpowers Marketplace",
+    "url": "https://github.com/obra/superpowers-marketplace",
+    "purpose": "Install and discover coding-agent plugins and workflow skills, including Superpowers",
+    "group": "agents",
+    "kind": "tool"
+  },
+  {
+    "name": "DeepInfer",
+    "url": "https://github.com/deepseek-ai/DeepInfer",
+    "purpose": "High-performance offline inference framework for supported DeepSeek models; check Linux, Python, and accelerator requirements",
+    "group": "models",
+    "kind": "tool"
+  },
+  {
+    "name": "SolidCraft",
+    "url": "https://github.com/tangency-labs/solidcraft",
+    "purpose": "Parametric 3D CAD for desktop and web, with CLI and MCP automation",
+    "group": "design",
+    "kind": "tool"
+  },
+  {
+    "name": "MPC Platform",
+    "url": "https://github.com/CircuitMurderer/MPC-Platform",
+    "purpose": "Verify multi-party computation results using secret sharing and homomorphic encryption; MPC here means multi-party computation, not Model Context Protocol",
+    "group": "security",
+    "kind": "tool"
+  },
+  {
+    "name": "MCP Market",
+    "url": "https://mcpmarket.com/",
+    "purpose": "Search and compare MCP servers, agent skills, and integrations by task",
+    "group": "mcp",
+    "kind": "directory"
+  },
+  {
+    "name": "Apify MCP Endpoint",
+    "url": "https://mcp.apify.com/",
+    "purpose": "Hosted Apify MCP endpoint for website, social, search, map, and ecommerce extraction using Actors",
+    "group": "mcp",
+    "kind": "tool"
+  },
+  {
+    "name": "APIs.io",
+    "url": "https://apis.io/",
+    "purpose": "Discover API providers and their documentation, schemas, and developer resources",
+    "group": "discovery",
+    "kind": "directory"
+  },
+  {
+    "name": "APIs.io MCP",
+    "url": "https://apis.io/mcp",
+    "purpose": "MCP interface for searching the APIs.io API catalog",
+    "group": "mcp",
+    "kind": "tool"
+  },
+  {
+    "name": "Scroll Craft",
+    "url": "https://github.com/nateherkai/scroll-craft",
+    "purpose": "Build premium scroll-driven websites using a defined design and verification workflow",
+    "group": "design",
+    "kind": "tool"
+  },
+  {
+    "name": "Sindre Sorhus Awesome",
+    "url": "https://github.com/sindresorhus/awesome",
+    "purpose": "Browse curated topic-specific lists of open-source tools and resources",
+    "group": "discovery",
+    "kind": "directory"
+  },
+  {
+    "name": "skills.sh",
+    "url": "https://skills.sh/",
+    "purpose": "Discover reusable agent skills and installation options",
+    "group": "discovery",
+    "kind": "directory"
+  },
+  {
+    "name": "RTK CLI",
+    "url": "https://github.com/rtk-ai/rtk",
+    "purpose": "Compress common CLI output to reduce context and token use in coding-agent workflows",
+    "group": "agents",
+    "kind": "tool"
+  },
+  {
+    "name": "Hermes Pixel Office",
+    "url": "https://github.com/teknium1/hermes-pixel-office",
+    "purpose": "Pixel-art virtual office visualization for Hermes Agent activity",
+    "group": "agents",
+    "kind": "tool"
+  },
+  {
+    "name": "OpenMontage",
+    "url": "https://github.com/calesthio/OpenMontage",
+    "purpose": "Agentic video production system with reusable pipelines and production knowledge",
+    "group": "media",
+    "kind": "tool"
+  },
+  {
+    "name": "Kimi Code",
+    "url": "https://www.kimi.com/code/en",
+    "purpose": "AI coding agent and CLI for codebase analysis, file editing, and command execution",
+    "group": "agents",
+    "kind": "tool"
+  },
+  {
+    "name": "Supabase MCP Docs",
+    "url": "https://supabase.com/docs/guides/ai-tools/mcp",
+    "purpose": "Official setup guide for connecting AI agents to Supabase projects through MCP",
+    "group": "integrations",
+    "kind": "documentation"
+  },
+  {
+    "name": "Supabase MCP Endpoint",
+    "url": "https://mcp.supabase.com/mcp",
+    "purpose": "Official remote Supabase MCP endpoint; scope access to the required project and tools",
+    "group": "integrations",
+    "kind": "tool"
+  },
+  {
+    "name": "Meta Marketing API",
+    "url": "https://developers.facebook.com/docs/marketing-api/",
+    "purpose": "Official Meta Marketing API documentation for ad accounts, campaigns, insights, and reporting",
+    "group": "marketing",
+    "kind": "documentation"
+  },
+  {
+    "name": "Google Analytics MCP",
+    "url": "https://developers.google.com/analytics/devguides/MCP",
+    "purpose": "Official read-only MCP server documentation for querying Google Analytics data",
+    "group": "marketing",
+    "kind": "documentation"
+  },
+  {
+    "name": "Miro MCP Docs",
+    "url": "https://developers.miro.com/docs/miro-mcp",
+    "purpose": "Official guide for connecting AI tools to Miro boards",
+    "group": "integrations",
+    "kind": "documentation"
+  },
+  {
+    "name": "Miro MCP Endpoint",
+    "url": "https://mcp.miro.com/",
+    "purpose": "Official remote Miro MCP endpoint for reading and editing boards after OAuth authorization",
+    "group": "integrations",
+    "kind": "tool"
+  },
+  {
+    "name": "Canva MCP",
+    "url": "https://community.canva.dev/t/the-wait-list-is-over-canva-mcp-server-is-now-generally-available/8942",
+    "purpose": "Official Canva developer announcement and setup entry point for the Canva MCP server",
+    "group": "integrations",
+    "kind": "documentation"
+  },
+  {
+    "name": "Stripe MCP Docs",
+    "url": "https://docs.stripe.com/mcp",
+    "purpose": "Official setup and usage documentation for Stripe MCP",
+    "group": "integrations",
+    "kind": "documentation"
+  },
+  {
+    "name": "Stripe MCP Endpoint",
+    "url": "https://mcp.stripe.com",
+    "purpose": "Official remote Stripe MCP endpoint; requires account authorization",
+    "group": "integrations",
+    "kind": "tool"
+  },
+  {
+    "name": "Notion MCP Docs",
+    "url": "https://www.notion.com/help/notion-mcp",
+    "purpose": "Official guide to connecting AI apps to Notion pages and databases",
+    "group": "integrations",
+    "kind": "documentation"
+  },
+  {
+    "name": "Notion MCP Endpoint",
+    "url": "https://mcp.notion.com/mcp",
+    "purpose": "Official remote Notion MCP endpoint; authenticate to access the selected workspace",
+    "group": "integrations",
+    "kind": "tool"
+  },
+  {
+    "name": "HubSpot Developer Docs",
+    "url": "https://developers.hubspot.com/",
+    "purpose": "Official HubSpot developer documentation for CRM, marketing, sales, and automation APIs",
+    "group": "integrations",
+    "kind": "documentation"
+  },
+  {
+    "name": "Shopify Dev MCP",
+    "url": "https://shopify.dev/docs/apps/build/devmcp",
+    "purpose": "Official Shopify Dev MCP documentation for app development and store workflows",
+    "group": "integrations",
+    "kind": "documentation"
+  },
+  {
+    "name": "Zapier MCP Docs",
+    "url": "https://help.zapier.com/hc/en-us/articles/48308034391821-What-is-Zapier-MCP",
+    "purpose": "Official guide to using Zapier MCP to trigger actions across connected apps",
+    "group": "automation",
+    "kind": "documentation"
+  },
+  {
+    "name": "Zapier MCP Endpoint",
+    "url": "https://mcp.zapier.com/",
+    "purpose": "Zapier MCP connection entry point for authorized app actions",
+    "group": "automation",
+    "kind": "tool"
+  },
+  {
+    "name": "GitHub MCP Server",
+    "url": "https://github.com/github/github-mcp-server",
+    "purpose": "Official GitHub MCP server for repository, issue, pull request, and workflow tasks",
+    "group": "integrations",
+    "kind": "tool"
+  },
+  {
+    "name": "GitHub MCP Endpoint",
+    "url": "https://api.githubcopilot.com/mcp/",
+    "purpose": "Hosted GitHub MCP endpoint; client support and authorization may vary",
+    "group": "integrations",
+    "kind": "tool"
+  },
+  {
+    "name": "Figma MCP Docs",
+    "url": "https://developers.figma.com/docs/figma-mcp-server/",
+    "purpose": "Official Figma MCP documentation for design context and creating or editing native Figma content",
+    "group": "integrations",
+    "kind": "documentation"
+  },
+  {
+    "name": "Figma MCP Endpoint",
+    "url": "https://mcp.figma.com/mcp",
+    "purpose": "Official remote Figma MCP endpoint; requires a supported client and account authorization",
+    "group": "integrations",
+    "kind": "tool"
+  },
+  {
+    "name": "Vercel MCP Docs",
+    "url": "https://vercel.com/docs/ai-tooling/vercel-mcp",
+    "purpose": "Official Vercel MCP documentation for projects, deployments, logs, and documentation search",
+    "group": "integrations",
+    "kind": "documentation"
+  },
+  {
+    "name": "Vercel MCP Endpoint",
+    "url": "https://mcp.vercel.com",
+    "purpose": "Official remote Vercel MCP endpoint with OAuth",
+    "group": "integrations",
+    "kind": "tool"
+  },
+  {
+    "name": "Chrome DevTools MCP",
+    "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+    "purpose": "Inspect and automate Chrome, debug network and console issues, take screenshots, and profile performance",
+    "group": "web",
+    "kind": "tool"
+  },
+  {
+    "name": "n8n Docs",
+    "url": "https://docs.n8n.io/",
+    "purpose": "Official documentation for building and operating workflow automation with n8n",
+    "group": "automation",
+    "kind": "documentation"
+  },
+  {
+    "name": "Context7 MCP Endpoint",
+    "url": "https://mcp.context7.com/mcp",
+    "purpose": "Fetch version-specific library documentation and code examples through MCP",
+    "group": "integrations",
+    "kind": "tool"
+  },
+  {
+    "name": "Caveman Website",
+    "url": "https://caveman.so",
+    "purpose": "Project site for the Caveman coding-agent token compression and workflow optimization tool",
+    "group": "agents",
+    "kind": "documentation"
+  }
+]
