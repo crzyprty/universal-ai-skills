@@ -1,4 +1,4 @@
-# Universal AI Execution Guide (English)
+# Universal AI Execution Guide
 
 **Primary guide:** [`SKILL.md`](SKILL.md). It acts as the agent's operating manual: infer defaults, choose tools automatically, fetch only needed docs, execute, repair errors, and verify.
 
