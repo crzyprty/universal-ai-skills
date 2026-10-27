@@ -1,44 +1,12 @@
-<div align="center">
+# Universal AI Execution Guide
 
-# Universal AI Skills & Execution Guide
-
-[![GitHub Actions CI](https://img.shields.io/badge/CI-Automated%20Cloud-success?logo=githubactions)](.github/workflows/autonomous-maintenance.yml)
-[![Supported Models](https://img.shields.io/badge/Models-Claude%20%7C%20Gemini%20%7C%20Codex%20%7C%20Cursor%20%7C%20Windsurf%20%7C%20Cline%20%7C%20Kimi-blueviolet)](#supported-models)
+[![Download ZIP](https://img.shields.io/badge/Download-universal--ai--skills.zip-blue?logo=github)](https://github.com/crzyprty/universal-ai-skills/releases/latest/download/universal-ai-skills.zip)
+[![Release](https://img.shields.io/github/v/release/crzyprty/universal-ai-skills)](https://github.com/crzyprty/universal-ai-skills/releases/latest)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-[![Autonomous Cloud](https://img.shields.io/badge/Autonomous%2024%2F7-Cloud%20Active-orange)](.github/workflows/ai-issue-agent.yml)
 
-**Universal skill catalog, execution rules, and autonomous cloud workflows for all major AI models and coding agents.**
+Direct download link: [**universal-ai-skills.zip**](https://github.com/crzyprty/universal-ai-skills/releases/latest/download/universal-ai-skills.zip)
 
-</div>
-
----
-
-**Primary guide:** [`SKILL.md`](SKILL.md). It acts as the agent operating manual: infer defaults, choose tools automatically, fetch only needed docs, execute, repair errors, and verify.
-
----
-
-## 24/7 Cloud Autonomy (Runs Even When PC Is Off)
-
-This repository includes autonomous GitHub Actions workflows running around the clock on GitHub cloud servers:
-- **Autonomous AI Issue & PR Assistant** (`.github/workflows/ai-issue-agent.yml`): Automatically routes incoming issues and pull requests to the right skill and documentation, provides immediate assistance, and labels items.
-- **Weekly Autonomous Healthcheck** (`.github/workflows/autonomous-maintenance.yml`): Runs comprehensive integrity tests, updates catalog validation, and packages the bundle for download.
-
----
-
-## Supported Models
-
-| Model / Agent | Entry File | Description |
-| :--- | :--- | :--- |
-| **Anthropic Claude** | [`CLAUDE.md`](CLAUDE.md) | Claude 3.5 Sonnet / Claude Code adapter |
-| **Google Gemini** | [`GEMINI.md`](GEMINI.md) | Gemini 1.5/2.0 Flash & Pro / Antigravity |
-| **OpenAI Codex / ChatGPT** | [`OPENAI_CODEX.md`](OPENAI_CODEX.md) | GPT-4o, o1, o3, Codex CLI instructions |
-| **Cursor IDE** | [`.cursor/rules/agent-rules.mdc`](.cursor/rules/agent-rules.mdc) | Cursor Rules integration |
-| **Windsurf (Codeium)** | [`.windsurfrules`](.windsurfrules) | Windsurf Cascade rules |
-| **Cline (VS Code)** | [`.clinerules`](.clinerules) | Cline autonomous agent rules |
-| **Moonshot Kimi** | [`KIMI.md`](KIMI.md) | Kimi K1 / K1.5 integration |
-| **Generic Agents** | [`AGENTS.md`](AGENTS.md) | Universal ReAct / Tool-calling agents |
-
----
+**Primary guide:** [`SKILL.md`](SKILL.md). It acts as the agent's operating manual: infer defaults, choose tools automatically, fetch only needed docs, execute, repair errors, and verify.
 
 ## Install once into a project
 
@@ -54,11 +22,9 @@ Or from PowerShell:
 & path\to\this\bundle\install.ps1 .
 ```
 
-The installer copies the guide, catalog, router, and skills to `.universal-ai-guide/`, then adds small entry pointers for common coding agents. Existing instruction files are backed up as `*.before-universal-ai.bak` before the guide pointer is added. Restart or reload the coding agent after installation.
+The installer copies the guide, catalog, router, and skills to `.universal-ai-guide/`, then adds small entry pointers for common coding agents. Existing instruction files are backed up as `*.before-universal-ai.bak` before the guide pointer is added. Restart/reload the coding agent after installation.
 
 A ZIP cannot activate itself inside an AI client. Automatic use starts after the guide is loaded as a skill or installed into the project instructions. Actual MCP connections may still require OAuth, client support, or account permissions.
-
----
 
 ## Fast routing
 
@@ -78,7 +44,6 @@ python tools/lookup.py route "build a marketing automation"
 
 The bundle is a guide and reference catalog. It does not install third-party applications or authenticate accounts automatically.
 
----
 
 ## Claude-Red integration
 
@@ -89,9 +54,3 @@ python integrations/claude-red/install_claude_red.py --target .
 ```
 
 This downloads `SKILL.md` files from the official repository into `.universal-ai-guide/claude-red/Skills/`; it does not execute upstream scripts or automatically activate skills in every AI client. See `integrations/claude-red/README.md`.
-
----
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
