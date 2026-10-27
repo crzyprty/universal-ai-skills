@@ -1,10 +1,4 @@
-# Universal AI Execution Guide
-
-[![Download ZIP](https://img.shields.io/badge/Download-universal--ai--skills.zip-blue?logo=github)](https://github.com/crzyprty/universal-ai-skills/releases/latest/download/universal-ai-skills.zip)
-[![Release](https://img.shields.io/github/v/release/crzyprty/universal-ai-skills)](https://github.com/crzyprty/universal-ai-skills/releases/latest)
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-
-Direct download link: [**universal-ai-skills.zip**](https://github.com/crzyprty/universal-ai-skills/releases/latest/download/universal-ai-skills.zip)
+# Universal AI Execution Guide (English)
 
 **Primary guide:** [`SKILL.md`](SKILL.md). It acts as the agent's operating manual: infer defaults, choose tools automatically, fetch only needed docs, execute, repair errors, and verify.
 
